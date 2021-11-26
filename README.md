@@ -1,7 +1,7 @@
 # FindUni.
 
 <p align="center">
-    <img src="https://ibb.co/4PSjRM2g" width="350" />
+    <img src="https://i.ibb.co/D5M7fkY/FINDUNI.png" width="350" />
     <br>
  </p>
 <p align="center">

@@ -1,0 +1,697 @@
+,College Name,GPA,Verbal,Quants,Writing,Cluster,Tier
+0,Aalto University,3.61,159.6666667,165,3.833333333,3,1
+1,Aberystwyth University,3.8,160,151,3.5,1,4
+2,Abilene Christian University,3.26,158.6666667,149,4.833333333,1,4
+3,Adelphi Univ.,3.51,147,150,4.5,4,5
+4,Adelphi University,3.752,152.4222222,149.2,4.3,4,5
+5,Alabama A & M University,3.45,147,148,4.5,4,5
+6,Alabama At Birmingham Uab,2.8,138,167,3,0,2
+7,Albert-Ludwigs-Universitt Freiburg,3.71,160,150,4,1,4
+8,Alfred University,3.175,154,158.5,3.25,1,4
+9,Aligarh Muslim University,3.37,143,158,3,0,2
+10,American Univ,3.98,160,161,4,3,1
+11,American University,3.608148649,161.2027027,156.2905405,4.631756757,2,3
+12,American University Of Beirut,4,163,165.5,5,3,1
+13,Andrews University,3.9,149,146,4,4,5
+14,Antioch University New England,3.9,168,159,4,2,3
+15,Appalachain State University,3.44,150,149,4.5,4,5
+16,Appalachian State University,3.6965625,156.8125,151.5625,4.21875,1,4
+17,Arcadia University,3.525,154.5,161,5,0,2
+18,Architectural Association,3.8,156,163,4,3,1
+19,Arizona State University,3.2,157,158,3,1,4
+20,Arizona State University (ASU),3.446484375,155.9765625,159.7890625,3.7890625,1,4
+21,Armstrong Atlantic State University,3.45,150.1428571,152.7142857,4.214285714,4,5
+22,Armstrong State University,3.666666667,161.6666667,156.3333333,4.166666667,2,3
+23,Auburn University,3.7075,160,153.9166667,4.375,1,4
+24,Australian National University (ANU),3.6,155,147,4.5,4,5
+25,Baldwin Wallace University,3.8,153,148,4,4,5
+26,Ball State University,3.583846154,160.4615385,153.0769231,4.653846154,1,4
+27,Bangladesh University Of Enginnering And Technology,3.42,158,166,3.5,3,1
+28,"Barcelona GSE, UPF",3.1,151.5,161,3.5,0,2
+29,Baylor University,3.741818182,160.3636364,157.4545455,4.363636364,1,4
+30,Bentley University,3.3,160.5,156.5,5,1,4
+31,Bloomsburg University,3.765,155.3333333,152.3333333,4.583333333,1,4
+32,Bocconi University,3.9,157,165,3.5,3,1
+33,Boise State University,3.406666667,157,155,4,1,4
+34,Boston Univ.,3.325,157,167.5,3.5,3,1
+35,Boston University (BU),3.593289474,159.1973684,157.8859649,4.335526316,1,4
+36,Boston University Pardee School,3.6,164,161,4.5,3,1
+37,Bowling Green State University,3.730952381,156.0952381,151.8095238,4.404761905,1,4
+38,Brandeis Univeristy (Heller School),3.84,157,157,4,1,4
+39,Brandeis University,3.625263158,160.7894737,156.8157895,4.473684211,2,3
+40,Brigham Young University,3.861666667,157.8333333,158,4.5,1,4
+41,Brock University,3.79,156.6666667,154.6666667,4,1,4
+42,Brown University,3.581754386,160.0701754,161.2280702,4.438596491,3,1
+43,CSUN,3.45,158.5,152.25,4.125,1,4
+44,CUNY,3.504444444,162,153.1111111,4.722222222,2,3
+45,Cal Poly Pomona,3.54,145,148,4,4,5
+46,"Cal State University, Los Angeles (CSULA)",3.4,152,158,5,0,2
+47,"California Polytechnic State University, San Luis Obispo",3.5,158,140,3.5,4,5
+48,"California Polytechnic University, Pomona",3.45,163,151,5,2,3
+49,"California State Polytechnic University, Pomona",3.18,153,153,4.5,1,4
+50,California State University (CSULA),3.77,151,154,4.5,4,5
+51,California State University Dominguez Hills,3.72,156,152,4.5,1,4
+52,California State University East Bay,3.9,156.5,150.5,4.5,1,4
+53,California State University San Jose,3.2,160,152,3.5,1,4
+54,California State University San Marcos,3.97,149,157,4.5,0,2
+55,"California State University, Chico",3.7725,156.625,151.75,4.3125,1,4
+56,"California State University, Dominguez Hills",3.72,150,151,4,4,5
+57,"California State University, Fresno",3.956666667,148.3333333,148.3333333,3.833333333,4,5
+58,"California State University, Fullerton",3.773,155.2,153.1,4.55,1,4
+59,"California State University, Long Beach",3.578888889,155.5555556,153.2222222,4.333333333,1,4
+60,"California State University, Los Angeles",3.493,161.6,150.7,4.74,2,3
+61,"California State University, Northridge",3.6515,157.05,153.85,4.25,1,4
+62,"California State University, Sacramento",3.54,159,155.5,4,1,4
+63,"California State University, San Francisco",3.5,148,155,4.5,4,5
+64,"California State University, San Jose",3.08,161,156,5,2,3
+65,California University Of PA,4,155,148,4,4,5
+66,California University Of Pennsylvania,3.854,151,149.2,4.1,4,5
+67,Cardiff University,3.68,168,156,4.5,2,3
+68,Carleton University,3.54,164.5,158,5.083333333,2,3
+69,Carnegie Mellon University (CMU),3.632327402,159.5658363,163.5017794,4.067615658,3,1
+70,Case Western Reserve University (CRWU),3.83,158,155,4.5,1,4
+71,Case Western Reserve University (CWRU),3.56,158.0588235,157,4.117647059,1,4
+72,Catholic University Of America,3.541428571,158.1428571,157.7142857,4.428571429,1,4
+73,Central European University,3.33,157.1666667,158.8333333,4.25,1,4
+74,Central Michigan University,3.635384615,155.3076923,152.3846154,4.115384615,1,4
+75,Central Washington University,3.306666667,162.3333333,156.3333333,4.333333333,2,3
+76,Chapman University,3.77625,153.5,149.125,4.375,4,5
+77,Chatham University,3.63,160,153,4,1,4
+78,Chicago University Divinity School,3.6,163,170,3.5,3,1
+79,City University London,3.68,168,156,4.5,2,3
+80,Claremont Graduate University,3.487272727,160.2727273,158.4545455,4.363636364,3,1
+81,Claremont McKenna College,3.6,154,156,4,1,4
+82,Clarion University,3.48,145.5,148,3.75,4,5
+83,Clark University,3.478333333,161.6666667,158,4.416666667,2,3
+84,Clarkson University,3.45125,150.75,161.5,3.1875,0,2
+85,Clemson University,3.480684211,156.8947368,159.2894737,3.973684211,1,4
+86,Cleveland State University,3.4875,150.4166667,153.0833333,4.041666667,4,5
+87,Colorado State University (CSU),3.663533333,157.9333333,157.4333333,3.95,1,4
+88,Columbia University,3.631380615,160.070922,160.3546099,4.296217494,3,1
+89,Concordia University,3.55,157.125,161.625,4.1875,3,1
+90,Cooper Union,3.68,153.5,161,3.75,0,2
+91,Cornell University,3.625387755,159.7414966,162.047619,4.034013605,3,1
+92,"Cranfield University, UK",3.6,158,166,4.5,3,1
+93,Curry School Of Education - University Of Virginia,3.45,163,160,4.5,3,1
+94,Dalhousie University,3.618,158,156.6,3.9,1,4
+95,DePaul University,3.555,157.375,152.625,4.4375,1,4
+96,Delft University Of Science And Technology,2.8,157,144,3.5,4,5
+97,Denver University,4,160,155,5,1,4
+98,Department Of Urban And Regional Planning,3.19,150,157,3,0,2
+99,Des Moines University,3,159,144,5,4,5
+100,Drew University,3.723333333,164,155.3333333,5,2,3
+101,Drexel University,3.50137931,158.5862069,159.5862069,4.034482759,3,1
+102,Duke University,3.651621622,161.3693694,161.8918919,4.387387387,3,1
+103,Duquesne University,3.511428571,160,155.2857143,5.2,1,4
+104,Durham University,3.93,163,156,4.5,2,3
+105,East Carolina University,3.622941176,154.9411765,154.1176471,4.088235294,1,4
+106,East Stroudsburg University,3.852222222,153.8888889,149.4444444,4.277777778,4,5
+107,East Stroudsburg University Of Pennsylvania,3.92,159,149,3.5,1,4
+108,East Tennessee State University,3.636923077,152.0769231,152.2307692,4.384615385,4,5
+109,Eastern Illinois University,3.605636364,152.8181818,150.6363636,4.363636364,4,5
+110,Eastern Kentucky University,3.66125,155.125,149.375,4.25,4,5
+111,"Eastern Ky Universty, Murray State, App State",3.6,156,147,4,4,5
+112,Eastern Michigan University,3.640909091,154.6363636,150.3030303,4.287878788,4,5
+113,Eastern New Mexico University,3.458181818,151.6363636,149.3636364,4.272727273,4,5
+114,Eastern Washington University,3.715833333,158.1666667,153.5,4.333333333,1,4
+115,Edinboro University,3.563076923,152.4615385,148.3846154,4.307692308,4,5
+116,Edinburgh University,3.25,144,152,3,4,5
+117,Eindhoven University Of Technology,3.3,143,163,3.5,0,2
+118,Embry-Riddle Aeronautical University,3.73,168,141,4.5,2,3
+119,Emory University,3.537297297,160.4054054,159.6216216,4.297297297,3,1
+120,Emporia State University,3.65,154,153,4,1,4
+121,Erasmus Mundus,3.5,143,164,3,0,2
+122,Erasmus University Rotterdam,3.23,164,159,3.5,2,3
+123,Fairfield University,3.3,161,150,4.5,1,4
+124,Fairleigh Dickinson University,3.285,148.5,144,4.5,4,5
+125,Fitchburg State University,3.56,152,156,4.5,1,4
+126,Florida Atlantic University,3.628,156.1,153.8,4.3,1,4
+127,Florida Atlantic University (FAU),3.368333333,154.8333333,151.5,4.416666667,1,4
+128,Florida Gulf Coast University,3.27,151.3333333,149.3333333,4.666666667,4,5
+129,Florida International University (FIU),3.48,154.8571429,151.1428571,4.071428571,1,4
+130,Florida State University (FSU),3.66130303,156.7121212,152.2121212,4.378787879,1,4
+131,Fontbonne University,3.832857143,153.1428571,151,4.357142857,4,5
+132,"Ford School, University Of Michigan",3.7,154,146,4,4,5
+133,Fordham University,3.67875,162.125,155.6666667,4.875,2,3
+134,Fort Hays State University,3.634,157,152.2,3.8,1,4
+135,Francis Marion University,3.78,153,146,4.5,4,5
+136,Gallaudet University,3.749090909,157.4545455,152.2727273,4.454545455,1,4
+137,George Mason University (GMU),3.434864865,156.3243243,155.5405405,4.256756757,1,4
+138,George Mason University School Of Public Policy,3.14,170,163,4.5,3,1
+139,George Washington University (GWU),3.600516432,160.5258216,156.6807512,4.441314554,1,4
+140,George Washington University - Trachtenberg,3.1,163,167,5,3,1
+141,George Washington University Trachtenberg (TSPPPA),3.69,155,153,4.5,1,4
+142,Georgetown University,3.628573643,162.7054264,157.5193798,4.689922481,2,3
+143,Georgia Institute Of Technology (GTech),3.9,156,166,4,3,1
+144,Georgia Regents University,3.96,166,160,4.5,2,3
+145,Georgia Southern University,3.46,149,148,3.5,4,5
+146,Georgia State University (GSU),3.648148148,158.4259259,155.1111111,4.537037037,1,4
+147,"Gerald R. Ford School Of Public Policy, The University Of Michigan",3.4,150,166,3.5,0,2
+148,Governors State University,3.774,151.2,150.8,4.3,4,5
+149,Graduate Theological Union,3.34,164,162.5,5,3,1
+150,Grand Valley State University,3.528,152.6666667,149.4666667,4.266666667,4,5
+151,Hampton University,3.615,148.75,145,4.625,4,5
+152,Harding University,3.58,150.5,148,4.5,4,5
+153,Harvard University,3.70703125,161.90625,161.5625,4.6328125,3,1
+154,Hofstra University,3.658214286,154.3214286,150.9285714,4.25,4,5
+155,Hong Kong University (HKU),3.615,160.25,153.75,3.875,1,4
+156,Howard University,3.7025,150,152.25,4.375,4,5
+157,Humboldt State University,3.38,155.25,153.5,3.75,1,4
+158,"Humboldt-Universitt Zu Berlin, School Of Business And Economics",3.87,154,165,4,0,2
+159,Hunter College,3.7,155,154,3.5,1,4
+160,Idaho State University,3.582105263,159.1052632,153.2105263,4.394736842,1,4
+161,Illinois State University,3.6932,153.7714286,151.3428571,4.3,4,5
+162,Indiana State University,3.73,154,149.75,3.75,4,5
+163,Indiana University - Kelley School Of Business,3.86,160,165,4.5,3,1
+164,Indiana University - Purdue University Indianapolis (IUPUI),3.395,159.375,156.875,4.4375,1,4
+165,Indiana University Of Pennsylvania,3.714444444,153.3333333,151,4,4,5
+166,Indiana University SPEA,3.676666667,161.3333333,158.3333333,5,3,1
+167,Indiana University School Of Public And Environmental Affairs,3.4,160,165,4.5,3,1
+168,"Indiana University, Bloomington",3.705259259,159.4148148,156.8666667,4.522222222,1,4
+169,Iowa State University (ISU),3.577916667,154.2916667,162.5416667,3.875,0,2
+170,Izmir University Of Economics,4,160,170,5.5,3,1
+171,Jackson State University,3.035,152.5,150.5,4.125,4,5
+172,Jacksonville University,3.67,155.5,154,4.25,1,4
+173,James Madision University,3.88,167,149,4.5,2,3
+174,James Madison University,3.717916667,157,153.4583333,4.391666667,1,4
+175,John Carroll University,3.2,152,148,4,4,5
+176,Johns Hopkins University (JHU),3.653898305,160.559322,162.3220339,4.149152542,3,1
+177,Johns Hopkins University School Of Advanced International Studies (SAIS),3.72,165,170,4.5,3,1
+178,"Johns Hopkins University, School Of Advanced International Studies, Bologna Center",3.17,158,157,4.5,1,4
+179,KENNESAW STATE UNIVERSITY,3.43,135,146,3,4,5
+180,KFUPM,3.88,144,161,3,0,2
+181,Kamla Raheja Vidyanidhi Institute Of Architecture (KRVIA),4,155,159,3.5,1,4
+182,Kansas State University,3.573333333,156.7777778,157.7777778,4.222222222,1,4
+183,Kansas University,3.825,155,153,4,1,4
+184,Kean University,3.660769231,153.7307692,152.3461538,4.346153846,1,4
+185,Keele University,3.13,154,154,5,1,4
+186,Kennesaw State University,3.426,156,149.6,4.1,1,4
+187,Kent State University,3.797307692,154.8461538,151.3846154,4.173076923,1,4
+188,King Abdullah University Of Science And Technology (KAUST),3.736666667,149.3333333,166.8333333,3.833333333,0,2
+189,LSE/USC,3.64,168,162,5.5,3,1
+190,La Salle University,3.813529412,157,153.2352941,4.411764706,1,4
+191,LaSalle University,3.763333333,154.6666667,151.3333333,4.5,1,4
+192,Lamar University,3.39,150,155.6666667,3.5,0,2
+193,Lehigh University,3.6825,157.6666667,158.6666667,4.125,1,4
+194,Lesley University,3.4,149,149,5,4,5
+195,Liberty University,1.8,140,131,2,4,5
+196,Loma Linda University,3.886666667,156.1666667,149.8333333,4,1,4
+197,London School Of Economics (LSE),3.67,164,152,4.5,2,3
+198,Long Island University,3.45125,152.5,154,4.3125,1,4
+199,"Long Island University, CW Post",3.726,153,147.4,4.5,4,5
+200,Longwood University,3.658947368,153.4736842,151.1052632,4.157894737,4,5
+201,Louisiana State University,3.61826087,159.5652174,154.1304348,4.195652174,1,4
+202,Louisiana Tech University,3.603333333,148,149.3333333,3.666666667,4,5
+203,"Loyala University, Maryland",3.739411765,157.2352941,153.3529412,4.411764706,1,4
+204,Loyola University,3.751666667,157.6666667,149.3333333,4.333333333,1,4
+205,"Loyola University, Chicago",3.571,158.5,154.3,4.6,1,4
+206,Lund University,3.685,158.5,165.5,3.5,3,1
+207,"Lyndon B. Johnson School Of Public Affairs, University Of Texas, Austin",3.17,158,157,4.5,1,4
+208,MIT (DUSP),3.8,166,160,5,2,3
+209,MIT DUSP,3.72,164,166,6,3,1
+210,"MPSTME, NMIMS University",3.26,155,164,3.5,0,2
+211,Maastricht University,3.73,159,158,4.5,1,4
+212,Marquette University,3.675692308,158.0769231,155.3589744,4.576923077,1,4
+213,Marshall University,3.649166667,148.9166667,148,4,4,5
+214,Maryland University,3.91,157,151,4.5,1,4
+215,Marymount University,3.503333333,159.3333333,152,5,1,4
+216,Marywood University,3.88,148.5,152,4.25,4,5
+217,Massachusetts Institute Of Technology (MIT),3.732,164.5,164,4.25,3,1
+218,McGill Unviversity,3.692904762,157.3095238,163.4047619,4.130952381,3,1
+219,McMaster University,3.65,163.6,159.8,4.1,3,1
+220,Memorial University Of Newfoundland (MUN),3.453333333,156,158,4.166666667,1,4
+221,Memphis University,3.5,169,155,5,2,3
+222,Mercer University,3.315,155,149,3.5,4,5
+223,Mercyhurst University,3.6,163,168,5,3,1
+224,Miami University,3.717272727,155.5454545,152.2727273,4.409090909,1,4
+225,"Miami University, Ohio",3.753333333,159.2916667,154.2083333,4.5,1,4
+226,Michigan State University,3.525,158,157,4.25,1,4
+227,Michigan State University (MSU),3.630740741,157.7407407,155.3148148,4.166666667,1,4
+228,Michigan Tech University,3.7,151,162,3,0,2
+229,Michigan Technological University (MTU),3.397555556,152.4444444,162.2222222,3.472222222,0,2
+230,Middle East Technical University,3.11,156.5,158.5,4.75,1,4
+231,Middle Tennessee State University,3.7025,156.5,152.75,4.5,1,4
+232,Midwestern University,3.641071429,152.5357143,150.5714286,4.392857143,4,5
+233,"Minnesota State University, Mankato",3,158,160,4.5,3,1
+234,"Minnesota State University, Moorhead",3.75,168,149,5.5,2,3
+235,Minot State University,3.74,157.25,149.5,4.625,1,4
+236,Misericordia University,3.84,154,155,4.5,1,4
+237,Mississippi State University,3.57,151.5,155,4,1,4
+238,"Missouri S&T,ULL",3.5,146,159,3.5,0,2
+239,Missouri State University,3.551,153.5,151.4,4.2,4,5
+240,Missouri University,3.47,148,157,4.5,0,2
+241,Missouri University Of Science And Technology,3.526666667,150.3333333,165.6666667,3.166666667,0,2
+242,Monash University,3.6,162,166,3.5,3,1
+243,Monmouth University,3.8925,150.5,151,4.25,4,5
+244,Montana State University,3.3,159,160,4.5,3,1
+245,Montclair State University,3.7036,155.32,153.04,4.52,1,4
+246,Montevallo University,3.813333333,151.6666667,149.6666667,4.166666667,4,5
+247,Murray State University,3.463333333,150,147.6666667,4,4,5
+248,NOVA Southeastern University,3.49,156,153.6666667,4,1,4
+249,NYU CSUP,3.82,147,168,3,0,2
+250,National University Of Singapore (NUS),3.94,148,162,4,0,2
+251,New Mexico State University,3.572105263,154.0526316,153.0526316,4.078947368,1,4
+252,New York University (NYU),3.626165049,160.368932,157.4223301,4.433495146,1,4
+253,North Carolina Central University,3.562,149.1333333,149,4.1,4,5
+254,North Carolina State University (NCSU),3.47,159,162.5,4.5,3,1
+255,North Caroline State University (NCSU),3.5204,157.472,162.696,3.916,3,1
+256,North Dakota State University,3.11,150,162,4,0,2
+257,Northeastern State University,4,160,148,3.5,1,4
+258,Northeastern University,3.527070175,155.9649123,157.622807,3.938596491,1,4
+259,Northern Arizona University,3.74,156.3666667,151.7666667,4.333333333,1,4
+260,Northern Illinois University,3.538377358,158.754717,155.8113208,4.490566038,1,4
+261,Northern Kentucky University,3.88,146,157,3,0,2
+262,"Northwester University, University Of Wisconsin-Milwaukee, UW-Whitewater, UW-Stevens Point",3.7,155,154,4.5,1,4
+263,Northwestern State University,4,160,155,5,1,4
+264,Northwestern University,3.521,162.5,156.6,4.75,2,3
+265,Nothwestern University,3.675685039,159.1889764,157.7165354,4.383464567,1,4
+266,Oakland University,3.216666667,155.6666667,156.3333333,4.5,1,4
+267,Ohio State Univ,3.67,149,165,3,0,2
+268,Ohio State University (OSU),3.593709677,157.5483871,159.5,4.129032258,3,1
+269,"Ohio State University, Columbus (OSU)",3.647703704,158.5555556,157.7037037,4.425925926,1,4
+270,Ohio State University/Fisher School Of Business,3.3,160,144,4.5,4,5
+271,"Ohio University, Athens",3.731666667,157.1666667,154.6,4.333333333,1,4
+272,Oklahoma State University,3.64,153.0833333,155.6666667,3.75,1,4
+273,Oklahoma University,3.7,153,163,4,0,2
+274,Old Dominion University,3.766666667,153.1666667,150,4.416666667,4,5
+275,Oregon Health And Science University,3.1,161,153,4,2,3
+276,Oregon State University,3.577307692,156.7307692,161.5,4.096153846,3,1
+277,Our Lady Of The Lake University,3.686666667,151.6666667,150.3333333,4.25,4,5
+278,Pacific University,3.570714286,158.5714286,152.2857143,4.285714286,1,4
+279,Penn State University School Of International Affairs,3.8,142,144,4,4,5
+280,Pennsylvania State University (Penn State),3.653147059,157.5882353,159.3235294,4.183823529,3,1
+281,Pennsylvania State University (PennState),3.76875,159.25,161.75,4.4375,3,1
+282,Pepperdine University,3.4,164,150,4,2,3
+283,Philadelphia University,3.36,160.5,154.5,4.25,1,4
+284,Plymouth State University,3.46,155,155.6666667,4.5,1,4
+285,Politecnico Di Milano,3.9,168,160,5,2,3
+286,Portland State University,3.613278689,159.4262295,152.9344262,4.37704918,1,4
+287,Pratt Institute,3.7,155,163,4.5,0,2
+288,Princeton University,3.696666667,164.2916667,163.7916667,4.875,3,1
+289,Purdue University,3.687190476,157.3015873,161.6507937,4.075396825,3,1
+290,Queen Mary University Of London,3.4,149,150,3.5,4,5
+291,Queens University,3.898571429,164.2857143,161.7142857,5,3,1
+292,Radford University,3.644146341,153.3170732,151.0487805,4.341463415,4,5
+293,Redland University,3.6,155,151,3.5,1,4
+294,Rice University,3.608583333,159.375,162.9166667,4.104166667,3,1
+295,"Robotics Institute, Carnegie Mellon University",3.96,157,169,3,3,1
+296,Rockhurst University,3.62375,151.875,147,4.1875,4,5
+297,Roosevelt University,3.9,159,152,4.4,1,4
+298,Rosalind Franklin University,3.2,146,158,3,0,2
+299,Rush University,3.687692308,158.4871795,153.6153846,4.487179487,1,4
+300,Rutgers University,3.516885246,158.7704918,159.4918033,4.081967213,3,1
+301,Ryerson University,3.633333333,157.6666667,152.6666667,4.5,1,4
+302,SRM University,3.9,150,162,3.5,0,2
+303,SUNY Albany,3.308333333,155.8333333,159.6666667,4.083333333,1,4
+304,SUNY Binghamton,3.5875,148.75,157.75,3.625,0,2
+305,SUNY Buffalo,3.541136364,153.1363636,158.0909091,3.784090909,1,4
+306,SUNY Oswego,3.03,144,161,2.5,0,2
+307,SUNY Stony Brook,3.519047619,157.1428571,163.3333333,3.642857143,3,1
+308,Sacramento State University,3.04,157.6666667,151.3333333,4.5,1,4
+309,Sacred Heart University,3.624,154,153.4,4.5,1,4
+310,Saint Louis University,3.71,155.0909091,154.0454545,4.522727273,1,4
+311,Saint Xavier University,3.7725,152.625,153.5,4.5,1,4
+312,Salem State University,3.7,153,153,4.5,1,4
+313,Salus University,3.38,157,150,4.25,1,4
+314,Sam Houston State University,3.21,152.5,154.5,3.75,1,4
+315,San Diego State University (SDSU),3.5755,157.4833333,156,4.45,1,4
+316,San Francisco State University (SFSU),3.543125,157.9375,154.375,4.109375,1,4
+317,San Jose State University (SJSU),3.414166667,156.5,155,4.25,1,4
+318,Santa Clara University,3.046666667,153.1666667,160.3333333,3.833333333,0,2
+319,"Sauder School Of Business, UBC",3,162,165,4,3,1
+320,School Of Education University Of Pennsylvania,3.62,160,161,3.5,3,1
+321,Seattle University,3.5,155.6666667,154.6666667,4.333333333,1,4
+322,Sen Diego State University California,4,143,161,2.3,0,2
+323,Seton Hall University,3.716428571,153.5357143,151.3571429,4.285714286,4,5
+324,Shanghai Normal University,3.4,150,165,3.5,0,2
+325,Shenandoah University,3.55,147,150,3.5,4,5
+326,Shenzhen University,3.65,151,160,3,0,2
+327,Simon Fraser University (SFU),3.476923077,157.8461538,165.7692308,4,3,1
+328,South Carolina State University,3.2875,146.75,145.25,4.25,4,5
+329,Southeastern Louisiana University,3.3975,158.5,148.25,3.625,1,4
+330,Southeastern University In Louisiana,3.85,148,152,4,4,5
+331,Southern CT State University,3.825,153.5,147.5,4.25,4,5
+332,Southern Connecticut State University,3.604,157.05,151.35,4.6,1,4
+333,Southern Illinois University,3.735428571,152.3142857,150.5428571,3.9,4,5
+334,"Southern Illinois University, Edwardsville (SIUE)",3.14,145,165,3,0,2
+335,Southern Methodist University,3.716666667,160.3333333,158.6666667,5,3,1
+336,Southern University And A&M College,3.2,146,147,3,4,5
+337,Spalding University,3.62,153,149,4,4,5
+338,St Bonaventure University,4,165,151,5,2,3
+339,St. Ambrose University,3.535,149,150,4.5,4,5
+340,St. Cloud State University,3.731666667,157.3333333,149.3333333,4.416666667,1,4
+341,St. Cloud University,3.82,155,150,4,4,5
+342,St. Johns University,3.641176471,153.1176471,150.8235294,4.441176471,4,5
+343,St. Louis University,3.795,155.25,153.375,4.75,1,4
+344,St. Xavier University,3.6325,156.3333333,152,4.583333333,1,4
+345,Stanford University,3.80127572,161.6584362,164.4074074,4.358024691,3,1
+346,State University Of New York - New Paltz,3.65,155,147,4,4,5
+347,Stephen F. Austin State University,3.4,166,153,4.5,2,3
+348,Stephen F. Austin University,3.1,149,152,3.5,4,5
+349,Stockton University,3.87,150,145,4,4,5
+350,Suffolk University,3.5,154,155,4.25,1,4
+351,Syracuse University,3.538415842,157.1089109,155.5742574,4.271287129,1,4
+352,TU Delft,3.566666667,156.8333333,165.8333333,3.666666667,3,1
+353,TU Munich,3.493333333,154.3333333,160.1666667,3.583333333,0,2
+354,"Taubman College, University Of Michigan",3.3,151,153,3.5,4,5
+355,Teachers College Columbia Universiy,3.83,153,170,3,0,2
+356,Technical University Of Denmark,3.066666667,157.6666667,165.3333333,3.333333333,3,1
+357,Temple University,3.683888889,156.3703704,154.3148148,4.305555556,1,4
+358,Tennessee State University,3.7825,152.5,148.25,4.125,4,5
+359,Texas A&M University - Spring 2013,3.31,140,162,4.5,0,2
+360,Texas A&M University Bush School,3.563333333,164.6666667,154.6666667,4.333333333,2,3
+361,"Texas A&M University, College Station (TAMU)",3.561044776,157.7761194,162.0597015,3.873134328,3,1
+362,"Texas A&M University, Kingsville (TAMU)",3.395,146.5,152.5,3,4,5
+363,Texas Christian University,3.676,155,154,4.6,1,4
+364,Texas State University,3.658888889,155.7777778,151.2222222,4.166666667,1,4
+365,Texas Tech University,3.574137931,154.8965517,157.2413793,3.74137931,1,4
+366,Texas Womans University,3.71,154.2,150.4,4.5,4,5
+367,The Catholic University Of America,3.96,156.5,163,4,3,1
+368,The Chinese University Of Hong Kong,3.66,154,157.5,3,1,4
+369,"The La Follette School Of Public Affairs, University Of Wisconsin-Madison",3.4,150,166,3.5,0,2
+370,The New School,3.372,161.8,156.6,4.1,2,3
+371,"The Ohio State University, Fisher College Of Business",3.87,154,165,4,0,2
+372,The Pennsylvania State University(PSU-Park),3.88,168,159,4,2,3
+373,"The University Of Texas School Of Public Health,houston",3.89,162,166,3.5,3,1
+374,Thomas Jefferson University,3.3325,161.5,157,4.25,2,3
+375,Tilburg University,3.643333333,157.3333333,163,4.166666667,3,1
+376,Touro University,3.49,163,150,4,2,3
+377,Towson University,3.760285714,156.2,152.9714286,4.457142857,1,4
+378,Trent University,3.11,161,155,5.5,2,3
+379,Truman State University,3.45,154.6666667,149,4.166666667,4,5
+380,Tsinghua University,2.766,156,165.5,4.25,3,1
+381,Tufts University,3.621764706,163.0735294,159.2941176,4.625,3,1
+382,Tulane University,3.324615385,157.3076923,154,3.884615385,1,4
+383,U Of Penn,3.81,159,167,3.5,3,1
+384,UBC Okanagan,3.9,165,161,5.5,3,1
+385,UCF Florida Institute Of Emerging Arts,3.3,158,161,4,3,1
+386,UCIII Madrid,3.1,152,160,4,0,2
+387,UCLA (Luskin),3.75,167,153,4.5,2,3
+388,UCLA Luskin,3.75,166,161,4.5,3,1
+389,UCLA Luskin School Of Public Affairs,3.56,168,154,4.5,2,3
+390,UCLA School Of Public Health,3.895,162.5,161.5,4.25,3,1
+391,UCSB (Bren School),3.9,156,156,4,1,4
+392,UCSB Bren School,3.53,163.5,163,4.25,3,1
+393,UCSD IRPS,3.52,154,163,3.5,0,2
+394,UIUC UT AUSTIN,3.64,152,170,3.5,0,2
+395,UMKC,2.82,155,160,4,0,2
+396,"UMich, Ann Arbor/ Univ Of Michigan",3.75,163,168,3.5,3,1
+397,UNC School Of Public Health,3.3,155,155,4,1,4
+398,"UNC- Chapel Hill, University Of Virginia, JMU, Northwestern, Boston U, Emerson",3.98,166,161,4.5,3,1
+399,UNIVERSITY OF MINNESOTA- TWIN CITY,4,154,168,3.5,0,2
+400,UNMC,0.5,131,130,1.5,4,5
+401,UPenn GSE,3.7,166,156,4,2,3
+402,UPenn Graduate School Of Education,3.2,154,154,4,1,4
+403,UPenn SP2,3.55,151,164,3.5,0,2
+404,UPitt,3.93,167,163,5.5,3,1
+405,URI Graduate School Of Oceanography,3.3,149,151,3,4,5
+406,USC Davis School Of Gerontology,3.94,158,149,3,1,4
+407,USC Price,3.615,164,157.5,5.25,2,3
+408,USC Price School Of Public Policy,3.2,161,164,3,3,1
+409,"USC Price School Of Public Policy, University Of Southern California",3.4,150,166,3.5,0,2
+410,USC Roski,3.94,166,151,4.5,2,3
+411,USC Rossier School Of Education,3.95,163,150,4,2,3
+412,USC School Of Arch,3.01,151,158,4,0,2
+413,USC Sol Price School,3.4,161.5,160,4.75,3,1
+414,UVA Batten,3.9,162,156,4,2,3
+415,Union Theological Seminary,3.955,168.25,152.5,4.625,2,3
+416,"Univ Of Washington, Univ. Of Maryland, Northeastern Univ.",3.5,163,162,4.5,3,1
+417,Univ Toronto,3.04,165,166,2,3,1
+418,Univeristy Of Minnesota Duluth,3.08,159,164,4,3,1
+419,Univeristy Of Texas Pan-American,3.05,150,139,4,4,5
+420,Universitat Autonoma De Barcelona,3.75,170,156,3,2,3
+421,University At Albany School Of Public Health,3,152,154,4,1,4
+422,University College Dublin,3.3,165,164,4.5,3,1
+423,University College London,3.631428571,160.0285714,161.0285714,4.357142857,3,1
+424,University Of Akron,3.733809524,153.7142857,150.5714286,4.261904762,4,5
+425,"University Of Alabama, Birmingham",3.336,155.8,153.4,3.9,1,4
+426,"University Of Alabama, Huntsville",3.366666667,160,154.3333333,3.666666667,1,4
+427,"University Of Alabama, Tuscaloosa",3.766538462,155.1538462,152.1923077,4.096153846,1,4
+428,University Of Alaska Fairbanks,3.205,159,159,3.75,3,1
+429,University Of Alaska- Anchorage,4,160,155,5,1,4
+430,University Of Alberta,3.607285714,155.0714286,162.9047619,3.75,0,2
+431,University Of Amsterdam,3.425,151,163,3.75,0,2
+432,University Of Arizona,3.603963636,159.9818182,155.3454545,4.436363636,1,4
+433,University Of Arkansas,3.654285714,152.2857143,149.7142857,4.071428571,4,5
+434,"University Of Arkansas, Fayetteville",3.684545455,155.2727273,151.6363636,4.045454545,1,4
+435,University Of Austin At Texas,3.52,152,170,3,0,2
+436,"University Of Binghamton , SUNY",3.48,153,168,3.5,0,2
+437,University Of Birmingham,4,163,152,5,2,3
+438,University Of Bologna,2.7,149,164,3,0,2
+439,University Of Bonn,1.604,154,168,3,0,2
+440,University Of Bristol,3.3875,157,155,3.75,1,4
+441,University Of British Columbia,3.185,154.5,164.5,3.5,0,2
+442,University Of British Columbia (UBC),3.691038961,159.7402597,162.4805195,4.058441558,3,1
+443,University Of Calgary,3.683636364,156.9090909,161.3181818,3.954545455,3,1
+444,University Of California - Merced (UCM),3.5,134,163,3,0,2
+445,University Of California Santa Barbara (UCSB) Bren School Of Environmental Science And Management,3.89,169,164,5.5,3,1
+446,University Of California Sol Price School Of Public Policy,3.52,162,158,5,2,3
+447,"University Of California, Berkeley (UCB)",3.693043478,161.0144928,162.4710145,4.514492754,3,1
+448,"University Of California, Davis (UCD)",3.560967742,159.0967742,161.1612903,4.209677419,3,1
+449,"University Of California, Irvine (UCI)",3.421494253,157.4597701,161.0114943,3.913793103,3,1
+450,"University Of California, Los Angeles (UCLA)",3.66023913,160.0326087,160.6050725,4.244565217,3,1
+451,"University Of California, Riverside",3.48,164,166,3.5,3,1
+452,"University Of California, Riverside (UCR)",3.436153846,155.6923077,160.1538462,3.807692308,3,1
+453,"University Of California, San Diego (UCSD)",3.659892308,159.2692308,163.4307692,4.107692308,3,1
+454,"University Of California, Santa Barbara (UCSB)",3.617083333,159.875,162,3.770833333,3,1
+455,"University Of California, Santa Cruz (UCSC)",3.529,157.6,162.4,4.15,3,1
+456,University Of Cambridge,3.767857143,163.8214286,164.6428571,4.660714286,3,1
+457,University Of Central Arkansas,3.576363636,154.9090909,149.8181818,4.363636364,4,5
+458,University Of Central Florida (UCF),3.605454545,154.1688312,152.8051948,4.149350649,1,4
+459,University Of Central Missouri,3.77,149.75,151.25,4,4,5
+460,University Of Chicago (UChicago),3.677177033,163.3444976,159.6220096,4.664114833,3,1
+461,University Of Chicago Division Of Social Sciences,3.57,158,151.3333333,5,1,4
+462,University Of Cincinnati,3.597708333,156.8125,156.7916667,4.1875,1,4
+463,University Of Colombo,3.1,150,150,3,4,5
+464,"University Of Colorado, Boulder",3.642282828,160.4141414,158.3636364,4.454545455,3,1
+465,"University Of Colorado, Colorado Springs",3.4,161,157.5,4.25,2,3
+466,"University Of Colorado, Denver",3.365,158.1666667,155.9444444,4.222222222,1,4
+467,University Of Connecticut,3.723617021,157,155.2765957,4.5,1,4
+468,University Of Copenhagen,3.25,146.5,158,2.5,0,2
+469,University Of Dallas,3.38,170,151,6,2,3
+470,University Of Dayton,3.48,154,156.5,4.25,1,4
+471,University Of Delaware,3.582058824,159.2352941,158.0588235,4.191176471,1,4
+472,University Of Denver,3.549552239,160.5522388,155.641791,4.5,1,4
+473,University Of East Anglia,3.3,160,140,4.5,4,5
+474,University Of Edinburgh,3.745384615,159.0769231,157.1538462,4.384615385,1,4
+475,University Of Essex,3.455,157,155.5,4.25,1,4
+476,University Of Exeter,3.8,170,155,5.5,2,3
+477,University Of Florida (M.E. Rinker School Of Construction Management),3,151,170,4,0,2
+478,"University Of Florida, Gainesville (UFL)",3.5225,156.7083333,158.9916667,3.7875,1,4
+479,University Of Georgia,3.644057971,159.1014493,155.5797101,4.420289855,1,4
+480,University Of Ghazvin At Radon Tech,4,140,168,3,0,2
+481,University Of Glasgow,3.443333333,154,159,3.833333333,1,4
+482,University Of Guelph,3.9,145,159,2.5,0,2
+483,University Of Hartford,3.423333333,158,149.6666667,4,1,4
+484,University Of Hawaii,3.635,156,151.25,3.875,1,4
+485,"University Of Hawaii, Manoa",3.745769231,159.6153846,153.0769231,4.442307692,1,4
+486,University Of Heidelberg,3.58,143,158,2,0,2
+487,University Of Houston,3.5503125,156.921875,155.453125,4.25,1,4
+488,"University Of Ibadan, Nigeria",3.8,166,166,5,3,1
+489,University Of Idaho,3.46,156.5,152.25,4.25,1,4
+490,University Of Illinois At Chicago School Of Public Health,3.34,168,159,4,2,3
+491,University Of Illinois Uiuc,3.9,154,164,5.5,0,2
+492,"University Of Illinois, Chicago (UIC)",3.549605263,156.4342105,157.6842105,4.118421053,1,4
+493,"University Of Illinois, Springfield",3.28,154,154,4.5,1,4
+494,"University Of Illinois, Urbana-Champaign (UIUC)",3.707315985,158.4609665,161.4981413,4.031598513,3,1
+495,University Of Indiana SPEA,3.53,164,158,5.5,2,3
+496,"University Of Indiana, Bloomington",3.81,165,152,4,2,3
+497,University Of Iowa,3.521,159,156.8333333,4.444444444,1,4
+498,University Of Kansas,3.630489796,157.5510204,155.877551,4.448979592,1,4
+499,University Of Kent BSIS,3.79,160,157,5,1,4
+500,University Of Kentucky,3.610909091,156.6060606,155.3333333,4.348484848,1,4
+501,University Of Leeds,3.755,162.5,153.25,4.75,2,3
+502,University Of Leicester,3.79,165,153,5,2,3
+503,University Of Lethbridge,3.45,158,165,4,3,1
+504,University Of London,3.3,160,140,4.5,4,5
+505,University Of Louisiana At Monroe,3.68,150,150,4,4,5
+506,"University Of Louisiana, Lafayette",3.411666667,154.5,155.25,3.75,1,4
+507,University Of Louisville,3.568947368,159.4210526,152.7894737,4.315789474,1,4
+508,University Of Maine,3.645555556,157.1111111,148.6666667,4.5,1,4
+509,University Of Manchester,3,157,168,3,3,1
+510,University Of Manitoba,3.733333333,156.3333333,157.3333333,4.333333333,1,4
+511,University Of Maryland - MAPO,3.49,166,159,6,2,3
+512,"University Of Maryland, Baltimore County (UMBC)",3.54375,158.375,155.125,4.5625,1,4
+513,"University Of Maryland, College Park (UMD)",3.59516129,159.2258065,157.5870968,4.429032258,1,4
+514,"University Of Maryland, School Of Public Policy",3.8,166,158,5.5,2,3
+515,"University Of Massachusetts, Amherst (UMass)",3.654166667,158.952381,157.8571429,4.226190476,1,4
+516,"University Of Massachusetts, Boston",3.646666667,158.3333333,149.6666667,4.333333333,1,4
+517,University Of Memphis,3.718571429,157.047619,153.5714286,4.166666667,1,4
+518,University Of Miami,3.523333333,156,156.3333333,4.277777778,1,4
+519,University Of Michigan (Ford School And Rackham Graduate School),2.7,164,157,4,2,3
+520,University Of Michigan School Of Natural Resources And Environment,3.63,160,167,4.5,3,1
+521,University Of Michigan School Of Natural Resources And Environment (SNRE),3.89,169,164,5.5,3,1
+522,"University Of Michigan School Of Public Health, Health Behavior & Health Education MPH",3.5,157,150,4,1,4
+523,"University Of Michigan, Ann Arbor (UMich)",3.636534759,160.0882353,161.5802139,4.190641711,3,1
+524,"University Of Michigan, Ann Arbor (Umich)",3.78,164,166,3,3,1
+525,University Of Minnesota,3.582315789,156,156.9473684,4.157894737,1,4
+526,"University Of Minnesota, Twin Cities (UMN)",3.597388535,159.2484076,160.7707006,4.21656051,3,1
+527,University Of Mississippi,3.764,155.4,149.1,4.3,4,5
+528,University Of Missouri,3.84,155,156.8333333,4.25,1,4
+529,"University Of Missouri, Columbia",3.597142857,158.3333333,154.4761905,4.238095238,1,4
+530,"University Of Missouri, Kansas City",3.72,143,162,3,0,2
+531,University Of Montana,3.703076923,157.2307692,153.1538462,4.384615385,1,4
+532,University Of Montevallo,3.65,151.7777778,149.6666667,3.833333333,4,5
+533,"University Of Nebraska, Lincoln",3.726466667,154.1666667,152.3,4.15,1,4
+534,"University Of Nebraska, Omaha",3.735555556,153.3333333,149,4.166666667,4,5
+535,University Of Nebraska-Kearney,3.32,149,151.5,4,4,5
+536,"University Of Nevada, Las Vegas",3.515,159,160,5,3,1
+537,"University Of Nevada, Reno",3.811666667,152.8333333,149.8333333,4.416666667,4,5
+538,University Of New Brunswick,3.8,150,164,3.5,0,2
+539,University Of New England,3.6,157,156,5.5,1,4
+540,University Of New Hampshire,3.69375,157.8125,152.71875,4.484375,1,4
+541,University Of New Haven,3.579090909,158.6363636,154,4.681818182,1,4
+542,University Of New Mexico,3.590869565,156.5652174,154.5217391,4.391304348,1,4
+543,University Of New Orleans,3.925,159.5,161.5,4.25,3,1
+544,University Of North Carolina (UNC). Gillings School Of Public Health,4,164,161,5,3,1
+545,University Of North Carolina Gillings School Of Global Public Health,3.2,163,160,4.5,3,1
+546,University Of North Carolina School Of Government,3.76,168,149,3.5,2,3
+547,"University Of North Carolina, Chapel Hill (UNC)",3.693366337,161.6237624,157.9306931,4.5,2,3
+548,"University Of North Carolina, Charlotte",3.505238095,156.6190476,154.4761905,4.214285714,1,4
+549,"University Of North Carolina, Greensboro",3.617333333,156.7666667,149.9666667,4.4,1,4
+550,"University Of North Carolina, Wilmington",3.673333333,155,151.6666667,4,1,4
+551,University Of North Dakota,3.66,156.5238095,153.9047619,4.19047619,1,4
+552,University Of North Texas,3.5134375,154.46875,153.3125,4.15625,1,4
+553,University Of Northern Colorado,3.796666667,160,152.9166667,4.541666667,1,4
+554,University Of Northern Iowa,3.81625,150,151.5,4.375,4,5
+555,University Of Notre Dame,3.766363636,161.3636364,157.1818182,4.909090909,2,3
+556,University Of Nottingham,3.335,156,163,4.25,3,1
+557,University Of Ohio,3.33,146,163,3,0,2
+558,University Of Oklahoma,3.77,157.625,155.7916667,4.354166667,1,4
+559,University Of Oregon,3.598186047,159.627907,153.872093,4.546511628,1,4
+560,University Of Ottawa,3.666666667,158.3333333,164,4.666666667,3,1
+561,University Of Oxford,3.775869565,163.1304348,162.673913,4.717391304,3,1
+562,University Of Pennsylvania (PennPlanning) (PennDesign),3.2,164,158,5,2,3
+563,University Of Pennsylvania (UPenn),3.594563265,160.4693878,161.0408163,4.248979592,3,1
+564,University Of Pennsylvania Fels Institute Of Government,3.515,162,159.5,5,3,1
+565,"University Of Pennsylvania, Fels Institute",3.51,156,155,4,1,4
+566,University Of Phoenix,2.4,143,140,2.5,4,5
+567,University Of Pittsburgh,3.639722222,158.0277778,156.7962963,4.310185185,1,4
+568,University Of Puget Sound,3.806666667,157.6666667,156.6666667,4.666666667,1,4
+569,University Of Redlands,3.501818182,156.9090909,152.7272727,4.409090909,1,4
+570,University Of Rhode Island,3.6228,156.8,156.44,4.22,1,4
+571,University Of Rochester,3.549565217,157.8695652,162.8695652,3.717391304,3,1
+572,University Of San Diego,2.6,151,151,4.5,4,5
+573,University Of San Francisco,3.34,156.6666667,154,4.166666667,1,4
+574,University Of Saskatchewan,3.71,157,167.5,4.25,3,1
+575,University Of Sheffield,3.475,155,155.5,4.75,1,4
+576,University Of South Alabama,3.68,152.4,148.4,3.8,4,5
+577,University Of South Carolina,3.648813559,158.5254237,154.3050847,4.279661017,1,4
+578,University Of South Dakota,3.67,152.8,149,3.95,4,5
+579,University Of South FL,3.89,162,153,4.5,2,3
+580,University Of South Florida (USF),3.628237288,155.2881356,152.8305085,4.06779661,1,4
+581,University Of South Florida- St. Petersburg,4,160,155,5,1,4
+582,"University Of Souther California, Sol Price School Of Public Policy",3.17,158,157,4.5,1,4
+583,University Of Southern California (USC),3.559994382,157.8848315,160.5140449,4.03511236,3,1
+584,University Of Southern California At San Diego,3.2,155,144,4.5,4,5
+585,University Of Southern California Keck School Of Medicine,3.5,162.5,157,4,2,3
+586,University Of Southern California Price School Of Public Policy,3.73,160,161,3.5,3,1
+587,University Of Southern California Sol Price School Of Public Policy,3.14,165,159,5,2,3
+588,"University Of Southern California, Sol Price School Of Public Policy",3.6,160,148,5.5,1,4
+589,University Of Southern Maine,3.9,165,148,5,2,3
+590,University Of Southern Mississippi,3.702857143,154,150.7142857,3.857142857,4,5
+591,University Of St Andrews,3.95,167.5,162.5,5.25,3,1
+592,University Of St. Thomas,3.92,156,152,4.5,1,4
+593,University Of St. Thomas (Center For Thomistic Studies),3.27,165,160,4.5,3,1
+594,University Of Strathclyde,3.13,154,154,5,1,4
+595,University Of Stuttgart,4,151,161,3,0,2
+596,University Of Sydney,3.3,151,160,3.5,0,2
+597,University Of Syracuse,3.8,151,151,4,4,5
+598,University Of Tehran,3.4,152,165,3,0,2
+599,University Of Tennessee,3.729210526,155.9473684,153.1578947,4.223684211,1,4
+600,"University Of Tennessee, Knoxville",3.7,154.75,152.45,4.475,1,4
+601,University Of Texas (UT),3.7,168,167,4.5,3,1
+602,"University Of Texas - Austin, LBJ School Of Public Affairs",3.6,160,155,5,1,4
+603,University Of Texas - Houston Health Science Center,3.12,159,147,6,1,4
+604,University Of Texas At Austin LBJ School Of Public Affairs,3.4,160,165,4.5,3,1
+605,University Of Texas At Austin School Of Architecture,3.96,165,160,4,3,1
+606,"University Of Texas At Austin, LBJ School Of International Affairs",3.5,166,166,4.5,3,1
+607,University Of Texas Austin LBJ School,3.81,168,163,5,3,1
+608,University Of Texas Health Houston,3.67,156,158,4,1,4
+609,University Of Texas Health Science Center,3.26,158.5,156,4.75,1,4
+610,University Of Texas Houston Health Sciences Center,3.56,158,158,3.4,1,4
+611,University Of Texas School Of Public Health,3.6,159,165,3.5,3,1
+612,University Of Texas School Of Public Health In Houston,3.79,154,166,3.5,0,2
+613,"University Of Texas, Arlington",3.400588235,153.2352941,159.0588235,3.647058824,0,2
+614,"University Of Texas, Austin (UT Austin)",3.635488,159.704,159.54,4.294,3,1
+615,"University Of Texas, Dallas (UT Dallas)",3.637472222,155.0555556,158.1805556,3.979166667,1,4
+616,"University Of Texas, Houston (UT Houston)",3.3,152.5,155,4.5,1,4
+617,"University Of Texas, San Antonio (UTSA)",3.025,152.5,153,3.25,1,4
+618,University Of Texas-LBJ School,3.815,165,157,4.75,2,3
+619,University Of Texas-Pan American (UTPA),3.57,150,151,3.5,4,5
+620,University Of The District Of Columbia,3.495454545,152.8181818,149.7272727,4.181818182,4,5
+621,University Of The Pacific,3.76,156.25,151.625,4.5625,1,4
+622,University Of Tokyo,4,165,163,5.5,3,1
+623,University Of Toledo,3.669565217,154.2608696,151.5652174,4.065217391,1,4
+624,University Of Toronto (UofT),3.754807692,161.4230769,161.25,4.375,3,1
+625,University Of Tulsa,3.588076923,154.2307692,158.3461538,3.884615385,1,4
+626,University Of Utah (UoU),3.626393443,158.1803279,157.852459,4.204918033,1,4
+627,University Of Vermont,3.67862069,159.4827586,152,4.517241379,1,4
+628,University Of Virginia (UVA),3.635454545,158.8961039,156.1688312,4.396103896,1,4
+629,University Of Virginia - Batten School Of Leadership & Public Policy,3.24,157,162,5,3,1
+630,University Of Virginia Batten School Of Public Policy,3.9,167,160,4.5,2,3
+631,"University Of Virginia, Batten School Of Leadership And Public Policy",3.12,161,161,5,3,1
+632,University Of VirginiaUVA- Batten School,3.6,166,147,4.5,2,3
+633,University Of WI: River Falls,3.83,157,147,4.5,4,5
+634,University Of Warwick,3.783333333,160.6666667,168,4.5,3,1
+635,University Of Washington - Evans School Of Public Affairs,3.472,160.2,155.2,5,1,4
+636,University Of Washington School Of Marine And Environmental Affairs (SMEA),3.89,169,164,5.5,3,1
+637,University Of Washington The Henry M. Jackson School Of International Studies,3.9,154,165,4,0,2
+638,"University Of Washington, Evans School Of Public Affairs",3.6,160,148,5.5,1,4
+639,"University Of Washington, Jackson School Of International Studies",3.3,165,162,5,3,1
+640,"University Of Washington, Seattle (UW)",3.644291667,159.8416667,158.9291667,4.3525,3,1
+641,University Of Waterloo,3.586153846,157.8846154,164.1923077,3.884615385,3,1
+642,University Of West Florida,3.34,157.625,152.5,4.375,1,4
+643,University Of West Georgia,3.604,151.8,148.6,4.1,4,5
+644,University Of Western Ontario (UWO),3.629090909,157.3636364,159,4.5,1,4
+645,University Of Wisconsin - River Falls,3.7,170,156,4,2,3
+646,University Of Wisconsin Madison--LaFollette School Of Public Affairs,3.68,168,163,5,3,1
+647,University Of Wisconsin River Falls,3.77,157,149,4,1,4
+648,"University Of Wisconsin, Eau Claire",3.837272727,153.7272727,151.8181818,4.227272727,1,4
+649,"University Of Wisconsin, La Crosse",3.2,141,147,3.5,4,5
+650,"University Of Wisconsin, Madison",3.611863014,160.3013699,160.0068493,4.349315068,3,1
+651,"University Of Wisconsin, Milwaukee",3.740769231,156.6538462,152,4.480769231,1,4
+652,"University Of Wisconsin, Whitewater ",3.555,152.75,150.75,3.625,4,5
+653,University Of Wisconsin- Stevens Point,3.75,151,150.6666667,4,4,5
+654,University Of Wisconsin-River Falls,3.94,153,156,4.5,1,4
+655,University Of Wisconsin-Stevens Point,3.5625,150.25,151.25,4.375,4,5
+656,University Of Wisonconsin- Stevens Point,3.77,147,146,4,4,5
+657,University Of Wyoming,3.7292,158.16,154.6,4.26,1,4
+658,University of Central Florida (UCF),3.4,159,164,4.5,3,1
+659,University of Pennsylvania (Upenn),3.76,160,155,3.5,1,4
+660,Unversity Of Nebraska Kearney,3.54,152,155,4,1,4
+661,Uppsala University,3.53,150,158,3.5,0,2
+662,Utah State University,3.692,158,153.8,4.2,1,4
+663,Valdosta State University,3.609,153.8,148.7,4.4,4,5
+664,Vanderbilt University,3.678947368,161.2982456,157.3333333,4.561403509,2,3
+665,Villanova University,3.669,160.95,154,4.9,2,3
+666,Virginia Commonwealth University (VCU),3.495454545,157.9090909,157.4545455,4.681818182,1,4
+667,Virginia Politech Institute And State University_Blacks Burgh,3.2,154.5,164.5,3.75,0,2
+668,Virginia Tech,3.594466667,158.8333333,160.1,4.1,3,1
+669,Visvesvaraya Technological University (VTU),3.996,156,161,4,3,1
+670,Wake Forest University,3.699166667,162,157.5833333,4.625,2,3
+671,Washington State University (WSU),3.453333333,153.6666667,155.4444444,3.972222222,1,4
+672,"Washington University, St. Louis (WUSTL)",3.537090909,158.8727273,157.0727273,4.272727273,1,4
+673,Wayne State University,3.631463415,154.0731707,152.0243902,4.195121951,1,4
+674,West Chester University,3.762666667,157.4,152.6,4.3,1,4
+675,West Texas A&M University,3.5,150,144,3.5,4,5
+676,West Virginia University,3.589677419,155.3225806,153.516129,4.177419355,1,4
+677,Western Carolina University,3.567333333,158,152.7333333,4.333333333,1,4
+678,Western Illinois University,3.606,154.4,151.7,4.05,1,4
+679,Western Kentucky University,3.631111111,160.5555556,151.3333333,4.111111111,1,4
+680,Western Michigan University,3.717652174,156.5,152.7173913,4.532608696,1,4
+681,Western Ontario,3.48,155.5,160,4.5,1,4
+682,Western University,3.53,166,147,4.5,2,3
+683,Western Washington University,3.66,159.2857143,153,4.535714286,1,4
+684,Wichita State University,3.594545455,152.0909091,153.5454545,4.136363636,1,4
+685,Wilfrid Laurier University,3.05,169,163,5,3,1
+686,William Paterson University,3.755384615,159.6153846,151.4615385,4.192307692,1,4
+687,Winthrop University,2.895,152.5,144,4.25,4,5
+688,Woodbury University,3.2,144,161,3,0,2
+689,Worcester State University,3.750769231,153.6923077,152.2307692,4.384615385,1,4
+690,Wright State University,3.41,160.5,157.75,4,1,4
+691,Yale Univ,3.89,162,166,3.5,3,1
+692,Yale University,3.668,162.875,163.3,4.725,3,1
+693,York University,3.570714286,158.7142857,155.452381,4.571428571,1,4
+694,Youngstown State University,3.5,163,155,5.5,2,3
+695,Zhejiang University Of Technology,3.7,168,150,3,2,3

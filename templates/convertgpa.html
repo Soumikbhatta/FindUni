@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="zxx" class="no-js">
+  <head>
+    <!-- Mobile Specific Meta -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/static/img/fav.png" />
+    <!-- Author Meta -->
+    <meta name="author" content="colorlib" />
+    <!-- Meta Description -->
+    <meta name="description" content="" />
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="" />
+    <!-- meta character set -->
+    <meta charset="UTF-8" />
+    <!-- Site Title -->
+    <title>GPA Converter</title>
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Roboto:400,400i,500,700"
+      rel="stylesheet"
+    />
+    <!--
+      CSS
+      =============================================
+    -->
+    <link rel="stylesheet" href="/static/css/linearicons.css" />
+    <link rel="stylesheet" href="/static/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="/static/css/bootstrap.css" />
+    <link rel="stylesheet" href="/static/css/magnific-popup.css" />
+    <link rel="stylesheet" href="/static/css/owl.carousel.css" />
+    <link rel="stylesheet" href="/static/css/nice-select.css" />
+    <link rel="stylesheet" href="/static/css/hexagons.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/themify-icons/0.1.2/css/themify-icons.css"
+    />
+    <link rel="stylesheet" href="/static/css/main.css" />
+  </head>
+
+  <body>
+    <!-- ================ Start Header Area ================= -->
+    <header class="default-header">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+          <a class="navbar-brand" href="/">
+            <img src="{% static 'img/logo.png' %}" alt="" />
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="lnr lnr-menu"></span>
+          </button>
+
+          <div
+            class="
+              collapse
+              navbar-collapse
+              justify-content-end
+              align-items-center
+            "
+            id="navbarSupportedContent"
+          >
+            <ul class="navbar-nav">
+              <li><a href="/">Home</a></li>
+              <!-- <li><a href="about.html">About</a></li> -->
+              <li><a href="/collegeprob">College Probability</a></li>
+              <!-- Dropdown -->
+              <li><a href="/predictcol">Predict Colleges</a></li>
+              <li><a href="/convertgpa">GPA Converter</a></li>
+              <li><a href="/india-test">India Exams</a></li>
+              <li><a href="/india-coll">India Colleges</a></li>
+
+              <li><a href="/contact">Contact Us</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- ================ End Header Area ================= -->
+
+    <!-- ================ start banner Area ================= -->
+    <section class="banner-area">
+      <div class="container">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-lg-12 banner-right">
+            <h1 class="text-white">GPA Converter</h1>
+            <p class="mx-auto text-white mt-20 mb-40">
+              Convert your CGPA to International 4-Point Scale
+            </p>
+            <div class="link-nav">
+              <span class="box">
+                <a href="/">Home </a>
+                <i class="lnr lnr-arrow-right"></i>
+                <a href="">GPA Converter</a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ================ End banner Area ================= -->
+
+    <!-- ================ Start Feature Area ================= -->
+    <section class="feature-area">
+      <h4>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Convert
+        your College GPA to international 4.0 point scale
+      </h4>
+    </section>
+    <!-- ================ End Feature Area ================= -->
+
+    <!-- ================ Start Popular Course Area ================= -->
+    <section>
+      <div
+        class="container-fluid"
+        style="padding-left: 400px; padding-right: 400px"
+      >
+        <div class="row justify-content-center">
+          <div class="col-lg-12">
+            <br />
+            <div align="Center" style="font-size: 35px">
+              <span
+                class="badge badge-secondary"
+                style="
+                  background: linear-gradient(90deg, #5d00ff 0%, #2b0096 100%);
+                  border-color: white;
+                  border-radius: 0px;
+                  width: 300px;
+                  padding-top: 10px;
+                  padding-bottom: 10px;
+                "
+                >Convert CGPA</span
+              >
+            </div>
+          </div>
+        </div>
+        <form action="#" method="POST" id="myform">
+          <table class="table table-borderless" align="Center">
+            <tbody>
+              <tr>
+                <td colspan="2">
+                  <label for="maxgpa">Select College Max GPA </label
+                  ><input
+                    type="number"
+                    step=".01"
+                    class="form-control"
+                    name="maxgpa"
+                    placeholder="Select your College Max GPA"
+                    id="maxgpa"
+                  />
+                  <br />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label for="GPA">GPA</label
+                  ><input
+                    type="number"
+                    step=".01"
+                    class="form-control"
+                    name="GPA"
+                    placeholder="Enter your GPA"
+                    id="gpa"
+                  />
+                </td>
+              </tr>
+              <br />
+              <tr>
+                <td colspan="2" align="Center">
+                  <input
+                    type="submit"
+                    class="btn btn-primary"
+                    style="
+                      background: linear-gradient(
+                        90deg,
+                        #5d00ff 0%,
+                        #2b0096 100%
+                      );
+                      border-color: white;
+                      border-radius: 0px;
+                      width: 200px;
+                    "
+                  /><br />
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </form>
+      </div>
+    </section>
+    <!-- ================ End Popular Course Area ================= -->
+    <section id="resultTable"></section>
+    <br /><br /><br /><br />
+
+    <!-- ================ start footer Area ================= -->
+    <footer class="footer-area" style="padding: 100px">
+      <div class="container">
+        <div class="footer-bottom" align="Center">
+          <div class="footer-social">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-dribbble"></i></a>
+            <a href="#"><i class="fa fa-behance"></i></a>
+          </div>
+        </div>
+        <br /><br />
+        <p class="footer-text" align="Center">
+          Copyright &copy;
+          <script>
+            document.write(new Date().getFullYear());
+          </script>
+          All rights reserved | This Website is made with
+          <i class="fa fa-heart-o" aria-hidden="true"></i> by Team finduni
+        </p>
+      </div>
+    </footer>
+    <!-- ================ End footer Area ================= -->
+
+    <script src="/static/js/vendor/jquery-2.2.4.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
+      integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+      crossorigin="anonymous"
+    ></script>
+    <script src="/static/js/vendor/bootstrap.min.js"></script>
+    <script
+      type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"
+    ></script>
+    <script src="/static/js/jquery.ajaxchimp.min.js"></script>
+    <script src="/static/js/jquery.magnific-popup.min.js"></script>
+    <script src="/static/js/parallax.min.js"></script>
+    <script src="/static/js/owl.carousel.min.js"></script>
+    <script src="/static/js/jquery.sticky.js"></script>
+    <script src="/static/js/hexagons.min.js"></script>
+    <script src="/static/js/jquery.counterup.min.js"></script>
+    <script src="/static/js/waypoints.min.js"></script>
+    <script src="/static/js/jquery.nice-select.min.js"></script>
+    <script src="/static/js/main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script type="text/javascript">
+      var myform = document.getElementById("form");
+      $("#myform").submit(function (e) {
+        e.preventDefault(); // avoid to execute the actual submit of the form.
+        var maxgpa = document.getElementById("maxgpa").value;
+        console.log(maxgpa);
+        var gpa = document.getElementById("gpa").value;
+        console.log(gpa);
+        if (parseInt(gpa) > parseInt(maxgpa)) {
+          alert("error");
+          return;
+        }
+        var newGpa = (4 * gpa) / maxgpa;
+        document.getElementById("resultTable").innerHTML =
+          `<div class="container-fluid" style="padding-left: 150px;padding-right: 150px" align="Center">
+            <table class="table table-striped table-bordered table-dark">
+  <thead class="thead-dark">
+    <tr align="Center">
+        <th>Given GPA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th>Converted GPA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="Center">
+      <td>` +
+          Math.round(gpa * 100) / 100 +
+          `</td>
+      <td>` +
+          Math.round(newGpa * 100) / 100 +
+          `</td>
+    </tr>
+  </tbody>
+</table>
+        </div>;`;
+      });
+    </script>
+  </body>
+</html>

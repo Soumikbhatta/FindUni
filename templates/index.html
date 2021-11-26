@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="zxx" class="no-js">
+  <head>
+    <!-- Mobile Specific Meta -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{% static 'img/fav.png' %}" />
+    <!-- Author Meta -->
+    <meta name="author" content="colorlib" />
+    <!-- Meta Description -->
+    <meta name="description" content="" />
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="" />
+    <!-- meta character set -->
+    <meta charset="UTF-8" />
+    <!-- Site Title -->
+    <title>Find Uni</title>
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Playfair+Display:900|Roboto:400,400i,500,700"
+      rel="stylesheet"
+    />
+    <!--
+      CSS
+      =============================================
+    -->
+    <link rel="stylesheet" href="{% static 'css/linearicons.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/font-awesome.min.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/bootstrap.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/magnific-popup.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/owl.carousel.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/nice-select.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/hexagons.min.css' %}" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/themify-icons/0.1.2/css/themify-icons.css"
+    />
+    <link rel="stylesheet" href="{% static 'css/main.css' %}" />
+  </head>
+
+  <body>
+    <!-- ================ Start Header Area ================= -->
+    <header class="default-header">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+          <a class="navbar-brand" href="/">
+            <img src="{% static 'img/logo.png' %}" alt="" />
+          </a>
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="lnr lnr-menu"></span>
+          </button>
+
+          <div
+            class="
+              collapse
+              navbar-collapse
+              justify-content-end
+              align-items-center
+            "
+            id="navbarSupportedContent"
+          >
+            <ul class="navbar-nav">
+              <li><a href="#">Home</a></li>
+              <!-- <li><a href="about.html">About</a></li> -->
+              <li><a href="collegeprob">College Probability</a></li>
+              <!-- Dropdown -->
+              <li><a href="predictcol">Predict Colleges</a></li>
+              <li><a href="convertgpa">GPA Converter</a></li>
+              <li><a href="/india-test">India Exams</a></li>
+              <li><a href="/india-coll">India Colleges</a></li>
+
+              <li><a href="contact">Contact Us</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- ================ End Header Area ================= -->
+
+    <!-- ================ start banner Area ================= -->
+    <section class="home-banner-area">
+      <div class="container">
+        <div class="row justify-content-center fullscreen align-items-center">
+          <div class="col-lg-5 col-md-8 home-banner-left">
+            <h1 class="text-white">FindUni</h1>
+            <p class="mx-auto text-white mt-20 mb-40">
+              University Recommendation System using Machine Learning
+            </p>
+          </div>
+          <div class="offset-lg-2 col-lg-5 col-md-12 home-banner-right">
+            <img
+              class="img-fluid"
+              src="{% static 'img/header-img.png' %}"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ================ End banner Area ================= -->
+
+    <!-- ================ Start Feature Area ================= -->
+    <section class="feature-area">
+      <div class="container-fluid">
+        <div class="feature-inner row">
+          <div class="col-lg-2 col-md-6">
+            <div class="feature-item d-flex">
+              <i class="ti-book"></i>
+              <div class="ml-20">
+                <h4>Grad School Finder</h4>
+                <p>
+                  Try our smart software and see a list of safe, realistic &
+                  ambitious universities, based on YOUR profile
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6">
+            <div class="feature-item d-flex">
+              <i class="ti-cup"></i>
+              <div class="ml-20">
+                <h4>Compare Universities</h4>
+                <p>
+                  A comprehensive rating of universities on noteworthy
+                  parameters to help you easily narrow down on universities
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-2 col-md-6">
+            <div class="feature-item d-flex border-right-0">
+              <i class="ti-desktop"></i>
+              <div class="ml-20">
+                <h4>Indian Universities</h4>
+                <p>
+                  Gives a Wide variety of Indian colleges providing details such as Exam cutoff, Avg Salary, Fees, Courses and Specializations available.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ================ End Feature Area ================= -->
+
+    <!-- ================ Start Popular Course Area ================= -->
+    <section class="popular-course-area section-gap">
+      <div class="container-fluid">
+        <div class="row justify-content-center section-title">
+          <div class="col-lg-12">
+            <h2>TRENDING UNIVERSITIES</h2>
+            <p>
+              Shows the details about the top treanding university accross the
+              states.
+            </p>
+          </div>
+        </div>
+        <div class="owl-carousel popuar-course-carusel">
+          <div class="single-popular-course">
+            <div class="thumb">
+              <a href="https://www.harvard.edu/" target="_blank">
+                <img
+                  class="f-img img-fluid mx-auto"
+                  src="{% static 'img/popular-course/p1.png' %}"
+                  alt=""
+                  style="height: 300px; width: 300px"
+                />
+              </a>
+            </div>
+            <div class="details">
+              <a href="https://www.harvard.edu/" target="_blank">
+                <h4>Harvard</h4>
+              </a>
+            </div>
+          </div>
+
+          <div class="single-popular-course">
+            <div class="thumb">
+              <a href="https://www.stanford.edu/" target="_blank">
+                <img
+                  class="f-img img-fluid mx-auto"
+                  src="{% static 'img/popular-course/p2.jpg' %}"
+                  alt=""
+                  style="height: 300px; width: 300px"
+                />
+              </a>
+            </div>
+            <div class="details">
+              <a href="https://www.stanford.edu/">
+                <h4>Stanford</h4>
+              </a>
+            </div>
+          </div>
+
+          <div class="single-popular-course">
+            <div class="thumb">
+              <a href="https://www.yale.edu/" target="_blank">
+                <img
+                  class="f-img img-fluid mx-auto"
+                  src="{% static 'img/popular-course/p3.jpg' %}"
+                  alt=""
+                  style="height: 300px; width: 300px"
+                />
+              </a>
+            </div>
+            <div class="details">
+              <a href="https://www.yale.edu/">
+                <h4>Yale</h4>
+              </a>
+            </div>
+          </div>
+
+          <div class="single-popular-course">
+            <div class="thumb">
+              <a href="http://www.mit.edu/" target="_blank">
+                <img
+                  class="f-img img-fluid mx-auto"
+                  src="{% static 'img/popular-course/p4.png' %}"
+                  alt=""
+                  style="height: 300px; width: 300px"
+                />
+              </a>
+            </div>
+            <div class="details">
+              <a href="http://www.mit.edu/">
+                <h4>Massachusetts Institute of Technology</h4>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="other-feature-area">
+      <div class="container">
+        <div class="feature-inner row">
+          <div class="col-lg-12">
+            <div class="section-title text-left">
+              <h2>
+                Features That <br />
+                We Provide
+              </h2>
+              <p>These are the list of features and services provided by us!</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="other-feature-item">
+              <i class="ti-key"></i>
+              <h4>Grad School Finder</h4>
+              <div>
+                <p>
+                  Try our smart software and see a list of safe, realistic &
+                  ambitious universities, based on YOUR profile
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mt--160">
+            <div class="other-feature-item">
+              <i class="ti-files"></i>
+              <h4>Compare Universities</h4>
+              <div>
+                <p>
+                  A comprehensive rating of universities on noteworthy
+                  parameters to help you easily narrow down on universities
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mt--260">
+            <div class="other-feature-item">
+              <i class="ti-medall-alt"></i>
+              <h4>Indian Universities</h4>
+              <div>
+                <p>
+                  Gives a Wide variety of Indian colleges providing details such as Exam cutoff, Avg Salary, Fees, Courses and Specializations available.
+                
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="other-feature-item">
+              <i class="ti-briefcase"></i>
+              <h4>India Exams</h4>
+              <div>
+                <p>
+                  Gives a comprehensive list of Colleges on which Accept certain entrance examinations.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mt--160">
+            <div class="other-feature-item">
+              <i class="ti-crown"></i>
+              <h4>College Probabilty</h4>
+              <div>
+                <p>
+                  Provides you with a realistic probability of getting into your dream college, based on our advanced machine learning model.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 mt--260">
+            <div class="other-feature-item">
+              <i class="ti-headphone-alt"></i>
+              <h4>Live Supports</h4>
+              <div>
+                <p>
+                  We helps you keep track of events, webinars, seminars related
+                  to studying masters abroad
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ================ End Feature Area ================= -->
+
+    <!-- ================ Start Testimonials Area ================= -->
+    <section class="testimonials-area section-gap">
+      <div class="container">
+        <div class="testi-slider owl-carousel" data-slider-id="1">
+          <div class="row align-items-center">
+            <div class="col-lg-5">
+              <div class="item">
+                <div class="testi-item">
+                  <img src="{% static 'img/quote.png' %}" alt="" />
+                  <div class="mt-40 text">
+                    <p>Find Uni was exactly what I needed to kickstart my GRE
+                      prep. The progress and probability pie charts were very
+                      encouraging. The quick turnaround time in email responses
+                      was very appreciated..</p>
+                  </div>
+                  <h4>John Doe</h4>
+                  <p>Chief Executive, XYZ</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="offset-lg-1 col-lg-6">
+              <img src="{% static 'img/testimonial/t1.jpg' %}" alt="" />
+            </div>
+          </div>
+
+          <div class="row align-items-center">
+            <div class="col-lg-5">
+              <div class="item">
+                <div class="testi-item">
+                  <img src="{% static 'img/quote.png' %}" alt="" />
+                  <div class="mt-40 text">
+                    <p>
+                      Find Uni was exactly what I needed to kickstart my GRE
+                      prep. The progress and probability pie charts were very
+                      encouraging. The quick turnaround time in email responses
+                      was very appreciated..
+                    </p>
+                  </div>
+                  <h4>Fanny Spencer</h4>
+                  <p>Chief Executive, Amazon</p>
+                </div>
+              </div>
+            </div>
+
+            <div class="offset-lg-1 col-lg-6">
+              <img src="{% static 'img/testimonial/t1.jpg' %}" alt="" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- ================ End Testimonials Area ================= -->
+
+    <!-- ================ start footer Area ================= -->
+    <footer class="footer-area" style="padding: 100px">
+      <div class="container">
+        <div class="footer-bottom" align="Center">
+          <div class="footer-social">
+            <a href="#"><i class="fa fa-facebook"></i></a>
+            <a href="#"><i class="fa fa-twitter"></i></a>
+            <a href="#"><i class="fa fa-dribbble"></i></a>
+            <a href="#"><i class="fa fa-behance"></i></a>
+          </div>
+        </div>
+        <br /><br />
+        <p class="footer-text" align="Center">
+          Copyright &copy;
+          <script>
+            document.write(new Date().getFullYear());
+          </script>
+          All rights reserved | This Website is made with
+          <i class="fa fa-heart-o" aria-hidden="true"></i> by Team Find Uni
+        </p>
+      </div>
+    </footer>
+    <!-- ================ End footer Area ================= -->
+
+    <script src="{% static 'js/vendor/jquery-2.2.4.min.js' %}"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"
+      integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+      crossorigin="anonymous"
+    ></script>
+    <script src="{% static 'js/vendor/bootstrap.min.js' %}"></script>
+    <script
+      type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"
+    ></script>
+    <script src="{% static 'js/jquery.ajaxchimp.min.js' %}"></script>
+    <script src="{% static 'js/jquery.magnific-popup.min.js' %}"></script>
+    <script src="{% static 'js/parallax.min.js' %}"></script>
+    <script src="{% static 'js/owl.carousel.min.js' %}"></script>
+    <script src="{% static 'js/jquery.sticky.js' %}"></script>
+    <script src="{% static 'js/hexagons.min.js' %}"></script>
+    <script src="{% static 'js/jquery.counterup.min.js' %}"></script>
+    <script src="{% static 'js/waypoints.min.js' %}"></script>
+    <script src="{% static 'js/jquery.nice-select.min.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+  </body>
+</html>

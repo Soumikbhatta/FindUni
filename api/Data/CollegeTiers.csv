@@ -1,0 +1,697 @@
+,College Name,Tier
+0,Aalto University,1
+1,Aberystwyth University,4
+2,Abilene Christian University,4
+3,Adelphi Univ.,5
+4,Adelphi University,5
+5,Alabama A & M University,5
+6,Alabama At Birmingham Uab,2
+7,Albert-Ludwigs-Universitt Freiburg,4
+8,Alfred University,4
+9,Aligarh Muslim University,2
+10,American Univ,1
+11,American University,3
+12,American University Of Beirut,1
+13,Andrews University,5
+14,Antioch University New England,3
+15,Appalachain State University,5
+16,Appalachian State University,4
+17,Arcadia University,2
+18,Architectural Association,1
+19,Arizona State University,4
+20,Arizona State University (ASU),4
+21,Armstrong Atlantic State University,5
+22,Armstrong State University,3
+23,Auburn University,4
+24,Australian National University (ANU),5
+25,Baldwin Wallace University,5
+26,Ball State University,4
+27,Bangladesh University Of Enginnering And Technology,1
+28,"Barcelona GSE, UPF",2
+29,Baylor University,4
+30,Bentley University,4
+31,Bloomsburg University,4
+32,Bocconi University,1
+33,Boise State University,4
+34,Boston Univ.,1
+35,Boston University (BU),4
+36,Boston University Pardee School,1
+37,Bowling Green State University,4
+38,Brandeis Univeristy (Heller School),4
+39,Brandeis University,3
+40,Brigham Young University,4
+41,Brock University,4
+42,Brown University,1
+43,CSUN,4
+44,CUNY,3
+45,Cal Poly Pomona,5
+46,"Cal State University, Los Angeles (CSULA)",2
+47,"California Polytechnic State University, San Luis Obispo",5
+48,"California Polytechnic University, Pomona",3
+49,"California State Polytechnic University, Pomona",4
+50,California State University (CSULA),5
+51,California State University Dominguez Hills,4
+52,California State University East Bay,4
+53,California State University San Jose,4
+54,California State University San Marcos,2
+55,"California State University, Chico",4
+56,"California State University, Dominguez Hills",5
+57,"California State University, Fresno",5
+58,"California State University, Fullerton",4
+59,"California State University, Long Beach",4
+60,"California State University, Los Angeles",3
+61,"California State University, Northridge",4
+62,"California State University, Sacramento",4
+63,"California State University, San Francisco",5
+64,"California State University, San Jose",3
+65,California University Of PA,5
+66,California University Of Pennsylvania,5
+67,Cardiff University,3
+68,Carleton University,3
+69,Carnegie Mellon University (CMU),1
+70,Case Western Reserve University (CRWU),4
+71,Case Western Reserve University (CWRU),4
+72,Catholic University Of America,4
+73,Central European University,4
+74,Central Michigan University,4
+75,Central Washington University,3
+76,Chapman University,5
+77,Chatham University,4
+78,Chicago University Divinity School,1
+79,City University London,3
+80,Claremont Graduate University,1
+81,Claremont McKenna College,4
+82,Clarion University,5
+83,Clark University,3
+84,Clarkson University,2
+85,Clemson University,4
+86,Cleveland State University,5
+87,Colorado State University (CSU),4
+88,Columbia University,1
+89,Concordia University,1
+90,Cooper Union,2
+91,Cornell University,1
+92,"Cranfield University, UK",1
+93,Curry School Of Education - University Of Virginia,1
+94,Dalhousie University,4
+95,DePaul University,4
+96,Delft University Of Science And Technology,5
+97,Denver University,4
+98,Department Of Urban And Regional Planning,2
+99,Des Moines University,5
+100,Drew University,3
+101,Drexel University,1
+102,Duke University,1
+103,Duquesne University,4
+104,Durham University,3
+105,East Carolina University,4
+106,East Stroudsburg University,5
+107,East Stroudsburg University Of Pennsylvania,4
+108,East Tennessee State University,5
+109,Eastern Illinois University,5
+110,Eastern Kentucky University,5
+111,"Eastern Ky Universty, Murray State, App State",5
+112,Eastern Michigan University,5
+113,Eastern New Mexico University,5
+114,Eastern Washington University,4
+115,Edinboro University,5
+116,Edinburgh University,5
+117,Eindhoven University Of Technology,2
+118,Embry-Riddle Aeronautical University,3
+119,Emory University,1
+120,Emporia State University,4
+121,Erasmus Mundus,2
+122,Erasmus University Rotterdam,3
+123,Fairfield University,4
+124,Fairleigh Dickinson University,5
+125,Fitchburg State University,4
+126,Florida Atlantic University,4
+127,Florida Atlantic University (FAU),4
+128,Florida Gulf Coast University,5
+129,Florida International University (FIU),4
+130,Florida State University (FSU),4
+131,Fontbonne University,5
+132,"Ford School, University Of Michigan",5
+133,Fordham University,3
+134,Fort Hays State University,4
+135,Francis Marion University,5
+136,Gallaudet University,4
+137,George Mason University (GMU),4
+138,George Mason University School Of Public Policy,1
+139,George Washington University (GWU),4
+140,George Washington University - Trachtenberg,1
+141,George Washington University Trachtenberg (TSPPPA),4
+142,Georgetown University,3
+143,Georgia Institute Of Technology (GTech),1
+144,Georgia Regents University,3
+145,Georgia Southern University,5
+146,Georgia State University (GSU),4
+147,"Gerald R. Ford School Of Public Policy, The University Of Michigan",2
+148,Governors State University,5
+149,Graduate Theological Union,1
+150,Grand Valley State University,5
+151,Hampton University,5
+152,Harding University,5
+153,Harvard University,1
+154,Hofstra University,5
+155,Hong Kong University (HKU),4
+156,Howard University,5
+157,Humboldt State University,4
+158,"Humboldt-Universitt Zu Berlin, School Of Business And Economics",2
+159,Hunter College,4
+160,Idaho State University,4
+161,Illinois State University,5
+162,Indiana State University,5
+163,Indiana University - Kelley School Of Business,1
+164,Indiana University - Purdue University Indianapolis (IUPUI),4
+165,Indiana University Of Pennsylvania,5
+166,Indiana University SPEA,1
+167,Indiana University School Of Public And Environmental Affairs,1
+168,"Indiana University, Bloomington",4
+169,Iowa State University (ISU),2
+170,Izmir University Of Economics,1
+171,Jackson State University,5
+172,Jacksonville University,4
+173,James Madision University,3
+174,James Madison University,4
+175,John Carroll University,5
+176,Johns Hopkins University (JHU),1
+177,Johns Hopkins University School Of Advanced International Studies (SAIS),1
+178,"Johns Hopkins University, School Of Advanced International Studies, Bologna Center",4
+179,KENNESAW STATE UNIVERSITY,5
+180,KFUPM,2
+181,Kamla Raheja Vidyanidhi Institute Of Architecture (KRVIA),4
+182,Kansas State University,4
+183,Kansas University,4
+184,Kean University,4
+185,Keele University,4
+186,Kennesaw State University,4
+187,Kent State University,4
+188,King Abdullah University Of Science And Technology (KAUST),2
+189,LSE/USC,1
+190,La Salle University,4
+191,LaSalle University,4
+192,Lamar University,2
+193,Lehigh University,4
+194,Lesley University,5
+195,Liberty University,5
+196,Loma Linda University,4
+197,London School Of Economics (LSE),3
+198,Long Island University,4
+199,"Long Island University, CW Post",5
+200,Longwood University,5
+201,Louisiana State University,4
+202,Louisiana Tech University,5
+203,"Loyala University, Maryland",4
+204,Loyola University,4
+205,"Loyola University, Chicago",4
+206,Lund University,1
+207,"Lyndon B. Johnson School Of Public Affairs, University Of Texas, Austin",4
+208,MIT (DUSP),3
+209,MIT DUSP,1
+210,"MPSTME, NMIMS University",2
+211,Maastricht University,4
+212,Marquette University,4
+213,Marshall University,5
+214,Maryland University,4
+215,Marymount University,4
+216,Marywood University,5
+217,Massachusetts Institute Of Technology (MIT),1
+218,McGill Unviversity,1
+219,McMaster University,1
+220,Memorial University Of Newfoundland (MUN),4
+221,Memphis University,3
+222,Mercer University,5
+223,Mercyhurst University,1
+224,Miami University,4
+225,"Miami University, Ohio",4
+226,Michigan State University,4
+227,Michigan State University (MSU),4
+228,Michigan Tech University,2
+229,Michigan Technological University (MTU),2
+230,Middle East Technical University,4
+231,Middle Tennessee State University,4
+232,Midwestern University,5
+233,"Minnesota State University, Mankato",1
+234,"Minnesota State University, Moorhead",3
+235,Minot State University,4
+236,Misericordia University,4
+237,Mississippi State University,4
+238,"Missouri S&T,ULL",2
+239,Missouri State University,5
+240,Missouri University,2
+241,Missouri University Of Science And Technology,2
+242,Monash University,1
+243,Monmouth University,5
+244,Montana State University,1
+245,Montclair State University,4
+246,Montevallo University,5
+247,Murray State University,5
+248,NOVA Southeastern University,4
+249,NYU CSUP,2
+250,National University Of Singapore (NUS),2
+251,New Mexico State University,4
+252,New York University (NYU),4
+253,North Carolina Central University,5
+254,North Carolina State University (NCSU),1
+255,North Caroline State University (NCSU),1
+256,North Dakota State University,2
+257,Northeastern State University,4
+258,Northeastern University,4
+259,Northern Arizona University,4
+260,Northern Illinois University,4
+261,Northern Kentucky University,2
+262,"Northwester University, University Of Wisconsin-Milwaukee, UW-Whitewater, UW-Stevens Point",4
+263,Northwestern State University,4
+264,Northwestern University,3
+265,Nothwestern University,4
+266,Oakland University,4
+267,Ohio State Univ,2
+268,Ohio State University (OSU),1
+269,"Ohio State University, Columbus (OSU)",4
+270,Ohio State University/Fisher School Of Business,5
+271,"Ohio University, Athens",4
+272,Oklahoma State University,4
+273,Oklahoma University,2
+274,Old Dominion University,5
+275,Oregon Health And Science University,3
+276,Oregon State University,1
+277,Our Lady Of The Lake University,5
+278,Pacific University,4
+279,Penn State University School Of International Affairs,5
+280,Pennsylvania State University (Penn State),1
+281,Pennsylvania State University (PennState),1
+282,Pepperdine University,3
+283,Philadelphia University,4
+284,Plymouth State University,4
+285,Politecnico Di Milano,3
+286,Portland State University,4
+287,Pratt Institute,2
+288,Princeton University,1
+289,Purdue University,1
+290,Queen Mary University Of London,5
+291,Queens University,1
+292,Radford University,5
+293,Redland University,4
+294,Rice University,1
+295,"Robotics Institute, Carnegie Mellon University",1
+296,Rockhurst University,5
+297,Roosevelt University,4
+298,Rosalind Franklin University,2
+299,Rush University,4
+300,Rutgers University,1
+301,Ryerson University,4
+302,SRM University,2
+303,SUNY Albany,4
+304,SUNY Binghamton,2
+305,SUNY Buffalo,4
+306,SUNY Oswego,2
+307,SUNY Stony Brook,1
+308,Sacramento State University,4
+309,Sacred Heart University,4
+310,Saint Louis University,4
+311,Saint Xavier University,4
+312,Salem State University,4
+313,Salus University,4
+314,Sam Houston State University,4
+315,San Diego State University (SDSU),4
+316,San Francisco State University (SFSU),4
+317,San Jose State University (SJSU),4
+318,Santa Clara University,2
+319,"Sauder School Of Business, UBC",1
+320,School Of Education University Of Pennsylvania,1
+321,Seattle University,4
+322,Sen Diego State University California,2
+323,Seton Hall University,5
+324,Shanghai Normal University,2
+325,Shenandoah University,5
+326,Shenzhen University,2
+327,Simon Fraser University (SFU),1
+328,South Carolina State University,5
+329,Southeastern Louisiana University,4
+330,Southeastern University In Louisiana,5
+331,Southern CT State University,5
+332,Southern Connecticut State University,4
+333,Southern Illinois University,5
+334,"Southern Illinois University, Edwardsville (SIUE)",2
+335,Southern Methodist University,1
+336,Southern University And A&M College,5
+337,Spalding University,5
+338,St Bonaventure University,3
+339,St. Ambrose University,5
+340,St. Cloud State University,4
+341,St. Cloud University,5
+342,St. Johns University,5
+343,St. Louis University,4
+344,St. Xavier University,4
+345,Stanford University,1
+346,State University Of New York - New Paltz,5
+347,Stephen F. Austin State University,3
+348,Stephen F. Austin University,5
+349,Stockton University,5
+350,Suffolk University,4
+351,Syracuse University,4
+352,TU Delft,1
+353,TU Munich,2
+354,"Taubman College, University Of Michigan",5
+355,Teachers College Columbia Universiy,2
+356,Technical University Of Denmark,1
+357,Temple University,4
+358,Tennessee State University,5
+359,Texas A&M University - Spring 2013,2
+360,Texas A&M University Bush School,3
+361,"Texas A&M University, College Station (TAMU)",1
+362,"Texas A&M University, Kingsville (TAMU)",5
+363,Texas Christian University,4
+364,Texas State University,4
+365,Texas Tech University,4
+366,Texas Womans University,5
+367,The Catholic University Of America,1
+368,The Chinese University Of Hong Kong,4
+369,"The La Follette School Of Public Affairs, University Of Wisconsin-Madison",2
+370,The New School,3
+371,"The Ohio State University, Fisher College Of Business",2
+372,The Pennsylvania State University(PSU-Park),3
+373,"The University Of Texas School Of Public Health,houston",1
+374,Thomas Jefferson University,3
+375,Tilburg University,1
+376,Touro University,3
+377,Towson University,4
+378,Trent University,3
+379,Truman State University,5
+380,Tsinghua University,1
+381,Tufts University,1
+382,Tulane University,4
+383,U Of Penn,1
+384,UBC Okanagan,1
+385,UCF Florida Institute Of Emerging Arts,1
+386,UCIII Madrid,2
+387,UCLA (Luskin),3
+388,UCLA Luskin,1
+389,UCLA Luskin School Of Public Affairs,3
+390,UCLA School Of Public Health,1
+391,UCSB (Bren School),4
+392,UCSB Bren School,1
+393,UCSD IRPS,2
+394,UIUC UT AUSTIN,2
+395,UMKC,2
+396,"UMich, Ann Arbor/ Univ Of Michigan",1
+397,UNC School Of Public Health,4
+398,"UNC- Chapel Hill, University Of Virginia, JMU, Northwestern, Boston U, Emerson",1
+399,UNIVERSITY OF MINNESOTA- TWIN CITY,2
+400,UNMC,5
+401,UPenn GSE,3
+402,UPenn Graduate School Of Education,4
+403,UPenn SP2,2
+404,UPitt,1
+405,URI Graduate School Of Oceanography,5
+406,USC Davis School Of Gerontology,4
+407,USC Price,3
+408,USC Price School Of Public Policy,1
+409,"USC Price School Of Public Policy, University Of Southern California",2
+410,USC Roski,3
+411,USC Rossier School Of Education,3
+412,USC School Of Arch,2
+413,USC Sol Price School,1
+414,UVA Batten,3
+415,Union Theological Seminary,3
+416,"Univ Of Washington, Univ. Of Maryland, Northeastern Univ.",1
+417,Univ Toronto,1
+418,Univeristy Of Minnesota Duluth,1
+419,Univeristy Of Texas Pan-American,5
+420,Universitat Autonoma De Barcelona,3
+421,University At Albany School Of Public Health,4
+422,University College Dublin,1
+423,University College London,1
+424,University Of Akron,5
+425,"University Of Alabama, Birmingham",4
+426,"University Of Alabama, Huntsville",4
+427,"University Of Alabama, Tuscaloosa",4
+428,University Of Alaska Fairbanks,1
+429,University Of Alaska- Anchorage,4
+430,University Of Alberta,2
+431,University Of Amsterdam,2
+432,University Of Arizona,4
+433,University Of Arkansas,5
+434,"University Of Arkansas, Fayetteville",4
+435,University Of Austin At Texas,2
+436,"University Of Binghamton , SUNY",2
+437,University Of Birmingham,3
+438,University Of Bologna,2
+439,University Of Bonn,2
+440,University Of Bristol,4
+441,University Of British Columbia,2
+442,University Of British Columbia (UBC),1
+443,University Of Calgary,1
+444,University Of California - Merced (UCM),2
+445,University Of California Santa Barbara (UCSB) Bren School Of Environmental Science And Management,1
+446,University Of California Sol Price School Of Public Policy,3
+447,"University Of California, Berkeley (UCB)",1
+448,"University Of California, Davis (UCD)",1
+449,"University Of California, Irvine (UCI)",1
+450,"University Of California, Los Angeles (UCLA)",1
+451,"University Of California, Riverside",1
+452,"University Of California, Riverside (UCR)",1
+453,"University Of California, San Diego (UCSD)",1
+454,"University Of California, Santa Barbara (UCSB)",1
+455,"University Of California, Santa Cruz (UCSC)",1
+456,University Of Cambridge,1
+457,University Of Central Arkansas,5
+458,University Of Central Florida (UCF),4
+459,University Of Central Missouri,5
+460,University Of Chicago (UChicago),1
+461,University Of Chicago Division Of Social Sciences,4
+462,University Of Cincinnati,4
+463,University Of Colombo,5
+464,"University Of Colorado, Boulder",1
+465,"University Of Colorado, Colorado Springs",3
+466,"University Of Colorado, Denver",4
+467,University Of Connecticut,4
+468,University Of Copenhagen,2
+469,University Of Dallas,3
+470,University Of Dayton,4
+471,University Of Delaware,4
+472,University Of Denver,4
+473,University Of East Anglia,5
+474,University Of Edinburgh,4
+475,University Of Essex,4
+476,University Of Exeter,3
+477,University Of Florida (M.E. Rinker School Of Construction Management),2
+478,"University Of Florida, Gainesville (UFL)",4
+479,University Of Georgia,4
+480,University Of Ghazvin At Radon Tech,2
+481,University Of Glasgow,4
+482,University Of Guelph,2
+483,University Of Hartford,4
+484,University Of Hawaii,4
+485,"University Of Hawaii, Manoa",4
+486,University Of Heidelberg,2
+487,University Of Houston,4
+488,"University Of Ibadan, Nigeria",1
+489,University Of Idaho,4
+490,University Of Illinois At Chicago School Of Public Health,3
+491,University Of Illinois Uiuc,2
+492,"University Of Illinois, Chicago (UIC)",4
+493,"University Of Illinois, Springfield",4
+494,"University Of Illinois, Urbana-Champaign (UIUC)",1
+495,University Of Indiana SPEA,3
+496,"University Of Indiana, Bloomington",3
+497,University Of Iowa,4
+498,University Of Kansas,4
+499,University Of Kent BSIS,4
+500,University Of Kentucky,4
+501,University Of Leeds,3
+502,University Of Leicester,3
+503,University Of Lethbridge,1
+504,University Of London,5
+505,University Of Louisiana At Monroe,5
+506,"University Of Louisiana, Lafayette",4
+507,University Of Louisville,4
+508,University Of Maine,4
+509,University Of Manchester,1
+510,University Of Manitoba,4
+511,University Of Maryland - MAPO,3
+512,"University Of Maryland, Baltimore County (UMBC)",4
+513,"University Of Maryland, College Park (UMD)",4
+514,"University Of Maryland, School Of Public Policy",3
+515,"University Of Massachusetts, Amherst (UMass)",4
+516,"University Of Massachusetts, Boston",4
+517,University Of Memphis,4
+518,University Of Miami,4
+519,University Of Michigan (Ford School And Rackham Graduate School),3
+520,University Of Michigan School Of Natural Resources And Environment,1
+521,University Of Michigan School Of Natural Resources And Environment (SNRE),1
+522,"University Of Michigan School Of Public Health, Health Behavior & Health Education MPH",4
+523,"University Of Michigan, Ann Arbor (UMich)",1
+524,"University Of Michigan, Ann Arbor (Umich)",1
+525,University Of Minnesota,4
+526,"University Of Minnesota, Twin Cities (UMN)",1
+527,University Of Mississippi,5
+528,University Of Missouri,4
+529,"University Of Missouri, Columbia",4
+530,"University Of Missouri, Kansas City",2
+531,University Of Montana,4
+532,University Of Montevallo,5
+533,"University Of Nebraska, Lincoln",4
+534,"University Of Nebraska, Omaha",5
+535,University Of Nebraska-Kearney,5
+536,"University Of Nevada, Las Vegas",1
+537,"University Of Nevada, Reno",5
+538,University Of New Brunswick,2
+539,University Of New England,4
+540,University Of New Hampshire,4
+541,University Of New Haven,4
+542,University Of New Mexico,4
+543,University Of New Orleans,1
+544,University Of North Carolina (UNC). Gillings School Of Public Health,1
+545,University Of North Carolina Gillings School Of Global Public Health,1
+546,University Of North Carolina School Of Government,3
+547,"University Of North Carolina, Chapel Hill (UNC)",3
+548,"University Of North Carolina, Charlotte",4
+549,"University Of North Carolina, Greensboro",4
+550,"University Of North Carolina, Wilmington",4
+551,University Of North Dakota,4
+552,University Of North Texas,4
+553,University Of Northern Colorado,4
+554,University Of Northern Iowa,5
+555,University Of Notre Dame,3
+556,University Of Nottingham,1
+557,University Of Ohio,2
+558,University Of Oklahoma,4
+559,University Of Oregon,4
+560,University Of Ottawa,1
+561,University Of Oxford,1
+562,University Of Pennsylvania (PennPlanning) (PennDesign),3
+563,University Of Pennsylvania (UPenn),1
+564,University Of Pennsylvania Fels Institute Of Government,1
+565,"University Of Pennsylvania, Fels Institute",4
+566,University Of Phoenix,5
+567,University Of Pittsburgh,4
+568,University Of Puget Sound,4
+569,University Of Redlands,4
+570,University Of Rhode Island,4
+571,University Of Rochester,1
+572,University Of San Diego,5
+573,University Of San Francisco,4
+574,University Of Saskatchewan,1
+575,University Of Sheffield,4
+576,University Of South Alabama,5
+577,University Of South Carolina,4
+578,University Of South Dakota,5
+579,University Of South FL,3
+580,University Of South Florida (USF),4
+581,University Of South Florida- St. Petersburg,4
+582,"University Of Souther California, Sol Price School Of Public Policy",4
+583,University Of Southern California (USC),1
+584,University Of Southern California At San Diego,5
+585,University Of Southern California Keck School Of Medicine,3
+586,University Of Southern California Price School Of Public Policy,1
+587,University Of Southern California Sol Price School Of Public Policy,3
+588,"University Of Southern California, Sol Price School Of Public Policy",4
+589,University Of Southern Maine,3
+590,University Of Southern Mississippi,5
+591,University Of St Andrews,1
+592,University Of St. Thomas,4
+593,University Of St. Thomas (Center For Thomistic Studies),1
+594,University Of Strathclyde,4
+595,University Of Stuttgart,2
+596,University Of Sydney,2
+597,University Of Syracuse,5
+598,University Of Tehran,2
+599,University Of Tennessee,4
+600,"University Of Tennessee, Knoxville",4
+601,University Of Texas (UT),1
+602,"University Of Texas - Austin, LBJ School Of Public Affairs",4
+603,University Of Texas - Houston Health Science Center,4
+604,University Of Texas At Austin LBJ School Of Public Affairs,1
+605,University Of Texas At Austin School Of Architecture,1
+606,"University Of Texas At Austin, LBJ School Of International Affairs",1
+607,University Of Texas Austin LBJ School,1
+608,University Of Texas Health Houston,4
+609,University Of Texas Health Science Center,4
+610,University Of Texas Houston Health Sciences Center,4
+611,University Of Texas School Of Public Health,1
+612,University Of Texas School Of Public Health In Houston,2
+613,"University Of Texas, Arlington",2
+614,"University Of Texas, Austin (UT Austin)",1
+615,"University Of Texas, Dallas (UT Dallas)",4
+616,"University Of Texas, Houston (UT Houston)",4
+617,"University Of Texas, San Antonio (UTSA)",4
+618,University Of Texas-LBJ School,3
+619,University Of Texas-Pan American (UTPA),5
+620,University Of The District Of Columbia,5
+621,University Of The Pacific,4
+622,University Of Tokyo,1
+623,University Of Toledo,4
+624,University Of Toronto (UofT),1
+625,University Of Tulsa,4
+626,University Of Utah (UoU),4
+627,University Of Vermont,4
+628,University Of Virginia (UVA),4
+629,University Of Virginia - Batten School Of Leadership & Public Policy,1
+630,University Of Virginia Batten School Of Public Policy,3
+631,"University Of Virginia, Batten School Of Leadership And Public Policy",1
+632,University Of VirginiaUVA- Batten School,3
+633,University Of WI: River Falls,5
+634,University Of Warwick,1
+635,University Of Washington - Evans School Of Public Affairs,4
+636,University Of Washington School Of Marine And Environmental Affairs (SMEA),1
+637,University Of Washington The Henry M. Jackson School Of International Studies,2
+638,"University Of Washington, Evans School Of Public Affairs",4
+639,"University Of Washington, Jackson School Of International Studies",1
+640,"University Of Washington, Seattle (UW)",1
+641,University Of Waterloo,1
+642,University Of West Florida,4
+643,University Of West Georgia,5
+644,University Of Western Ontario (UWO),4
+645,University Of Wisconsin - River Falls,3
+646,University Of Wisconsin Madison--LaFollette School Of Public Affairs,1
+647,University Of Wisconsin River Falls,4
+648,"University Of Wisconsin, Eau Claire",4
+649,"University Of Wisconsin, La Crosse",5
+650,"University Of Wisconsin, Madison",1
+651,"University Of Wisconsin, Milwaukee",4
+652,"University Of Wisconsin, Whitewater ",5
+653,University Of Wisconsin- Stevens Point,5
+654,University Of Wisconsin-River Falls,4
+655,University Of Wisconsin-Stevens Point,5
+656,University Of Wisonconsin- Stevens Point,5
+657,University Of Wyoming,4
+658,University of Central Florida (UCF),1
+659,University of Pennsylvania (Upenn),4
+660,Unversity Of Nebraska Kearney,4
+661,Uppsala University,2
+662,Utah State University,4
+663,Valdosta State University,5
+664,Vanderbilt University,3
+665,Villanova University,3
+666,Virginia Commonwealth University (VCU),4
+667,Virginia Politech Institute And State University_Blacks Burgh,2
+668,Virginia Tech,1
+669,Visvesvaraya Technological University (VTU),1
+670,Wake Forest University,3
+671,Washington State University (WSU),4
+672,"Washington University, St. Louis (WUSTL)",4
+673,Wayne State University,4
+674,West Chester University,4
+675,West Texas A&M University,5
+676,West Virginia University,4
+677,Western Carolina University,4
+678,Western Illinois University,4
+679,Western Kentucky University,4
+680,Western Michigan University,4
+681,Western Ontario,4
+682,Western University,3
+683,Western Washington University,4
+684,Wichita State University,4
+685,Wilfrid Laurier University,1
+686,William Paterson University,4
+687,Winthrop University,5
+688,Woodbury University,2
+689,Worcester State University,4
+690,Wright State University,4
+691,Yale Univ,1
+692,Yale University,1
+693,York University,4
+694,Youngstown State University,3
+695,Zhejiang University Of Technology,3
